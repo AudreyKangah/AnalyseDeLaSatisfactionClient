@@ -1,0 +1,1001 @@
+Review_ID;Customer_ID;Date_avis;Product_Category;Rating;Review_Text;Sentiment;Response_Time;Resolution_Status;Return_Request
+1;1341;18/01/2023;Voyages;1;Avis client 1 sur Voyages;Negatif;70;Non resolu;Oui
+2;5541;12/03/2023;Beaute;5;Avis client 2 sur Beaute;Positif;68;Non resolu;Oui
+3;1501;14/05/2023;Alimentation;5;Avis client 3 sur Alimentation;Positif;31;En attente;Oui
+4;9312;06/07/2023;Maison;4;Avis client 4 sur Maison;Positif;37;Non resolu;Non
+5;9043;28/09/2023;Sport;2;Avis client 5 sur Sport;Negatif;22;Resolu;Oui
+6;9624;29/05/2024;Maison;1;Avis client 6 sur Maison;Negatif;50;En attente;Non
+7;8874;27/10/2024;Alimentation;5;Avis client 7 sur Alimentation;Positif;5;En attente;Non
+8;5819;29/08/2024;Sport;5;Avis client 8 sur Sport;Positif;16;Resolu;Oui
+9;5828;20/11/2023;Electronique;5;Avis client 9 sur Electronique;Positif;26;Non resolu;Oui
+10;5103;06/08/2024;Sport;2;Avis client 10 sur Sport;Negatif;63;En attente;Oui
+11;8622;28/07/2024;Voyages;3;Avis client 11 sur Voyages;Neutre;52;Non resolu;Non
+12;1774;11/04/2023;Maison;1;Avis client 12 sur Maison;Negatif;71;Non resolu;Oui
+13;7836;05/05/2023;Electronique;4;Avis client 13 sur Electronique;Positif;9;Resolu;Oui
+14;3226;30/07/2024;Sport;3;Avis client 14 sur Sport;Neutre;59;Resolu;Non
+15;1074;01/12/2024;Alimentation;5;Avis client 15 sur Alimentation;Positif;45;En attente;Non
+16;5842;12/08/2023;Electronique;5;Avis client 16 sur Electronique;Positif;12;Non resolu;Non
+17;4466;26/05/2024;Mode;4;Avis client 17 sur Mode;Positif;14;Resolu;Oui
+18;3819;01/12/2023;Voyages;4;Avis client 18 sur Voyages;Positif;23;En attente;Non
+19;4557;04/07/2023;Sport;3;Avis client 19 sur Sport;Neutre;27;Resolu;Oui
+20;9448;27/05/2024;Sport;2;Avis client 20 sur Sport;Negatif;71;Non resolu;Oui
+21;2589;27/08/2023;Maison;1;Avis client 21 sur Maison;Negatif;3;En attente;Oui
+22;1813;06/09/2024;Sport;5;Avis client 22 sur Sport;Positif;59;Resolu;Non
+23;2337;07/02/2024;Mode;5;Avis client 23 sur Mode;Positif;6;En attente;Non
+24;3918;12/10/2023;Mode;1;Avis client 24 sur Mode;Negatif;66;Resolu;Non
+25;3671;22/10/2023;Alimentation;2;Avis client 25 sur Alimentation;Negatif;25;Non resolu;Oui
+26;2227;04/06/2024;Mode;3;Avis client 26 sur Mode;Neutre;62;En attente;Oui
+27;1767;15/06/2024;Mode;3;Avis client 27 sur Mode;Neutre;57;Non resolu;Oui
+28;1059;20/11/2024;Alimentation;3;Avis client 28 sur Alimentation;Neutre;47;En attente;Non
+29;9940;22/10/2023;Alimentation;5;Avis client 29 sur Alimentation;Positif;57;Non resolu;Non
+30;6592;26/05/2023;Voyages;1;Avis client 30 sur Voyages;Negatif;5;Resolu;Oui
+31;1726;01/12/2024;Electronique;5;Avis client 31 sur Electronique;Positif;39;En attente;Non
+32;8677;08/12/2023;Electronique;2;Avis client 32 sur Electronique;Negatif;16;Resolu;Non
+33;4336;05/04/2024;Voyages;1;Avis client 33 sur Voyages;Negatif;67;En attente;Non
+34;1479;10/07/2024;Alimentation;5;Avis client 34 sur Alimentation;Positif;45;Non resolu;Oui
+35;7736;06/11/2024;Beaute;3;Avis client 35 sur Beaute;Neutre;55;Resolu;Non
+36;6783;16/06/2023;Mode;1;Avis client 36 sur Mode;Negatif;52;Non resolu;Non
+37;7610;16/06/2023;Maison;1;Avis client 37 sur Maison;Negatif;61;Non resolu;Non
+38;8566;28/09/2024;Alimentation;2;Avis client 38 sur Alimentation;Negatif;30;En attente;Non
+39;9872;19/02/2023;Alimentation;5;Avis client 39 sur Alimentation;Positif;61;En attente;Oui
+40;7641;31/05/2023;Voyages;2;Avis client 40 sur Voyages;Negatif;20;Resolu;Non
+41;1804;13/02/2023;Mode;1;Avis client 41 sur Mode;Negatif;40;En attente;Non
+42;1099;16/07/2024;Electronique;4;Avis client 42 sur Electronique;Positif;19;En attente;Non
+43;7375;28/12/2024;Beaute;4;Avis client 43 sur Beaute;Positif;36;Non resolu;Oui
+44;9757;29/03/2023;Alimentation;5;Avis client 44 sur Alimentation;Positif;50;Resolu;Non
+45;8443;14/03/2023;Electronique;4;Avis client 45 sur Electronique;Positif;71;En attente;Non
+46;8626;25/03/2024;Mode;3;Avis client 46 sur Mode;Neutre;20;Resolu;Oui
+47;2434;07/08/2023;Voyages;1;Avis client 47 sur Voyages;Negatif;12;En attente;Non
+48;3596;04/07/2023;Electronique;3;Avis client 48 sur Electronique;Neutre;55;Resolu;Non
+49;3941;29/08/2023;Beaute;2;Avis client 49 sur Beaute;Negatif;57;En attente;Oui
+50;9340;31/01/2023;Mode;1;Avis client 50 sur Mode;Negatif;43;Non resolu;Oui
+51;4634;21/07/2024;Beaute;1;Avis client 51 sur Beaute;Negatif;61;Resolu;Non
+52;5547;08/02/2024;Sport;3;Avis client 52 sur Sport;Neutre;21;En attente;Non
+53;4009;26/05/2023;Beaute;1;Avis client 53 sur Beaute;Negatif;64;Resolu;Non
+54;9646;22/05/2024;Electronique;1;Avis client 54 sur Electronique;Negatif;11;En attente;Non
+55;6972;06/04/2024;Electronique;2;Avis client 55 sur Electronique;Negatif;26;Resolu;Non
+56;7792;11/03/2023;Electronique;4;Avis client 56 sur Electronique;Positif;70;En attente;Non
+57;4557;06/09/2024;Alimentation;2;Avis client 57 sur Alimentation;Negatif;64;Non resolu;Non
+58;7828;17/02/2023;Voyages;4;Avis client 58 sur Voyages;Positif;63;Non resolu;Non
+59;8121;25/08/2024;Voyages;2;Avis client 59 sur Voyages;Negatif;26;Non resolu;Oui
+60;8794;10/06/2023;Sport;3;Avis client 60 sur Sport;Neutre;55;Resolu;Non
+61;1084;25/01/2023;Voyages;5;Avis client 61 sur Voyages;Positif;29;Non resolu;Oui
+62;6105;11/12/2023;Voyages;2;Avis client 62 sur Voyages;Negatif;3;En attente;Non
+63;4380;08/05/2023;Maison;3;Avis client 63 sur Maison;Neutre;5;En attente;Non
+64;8145;27/01/2024;Voyages;3;Avis client 64 sur Voyages;Neutre;4;Resolu;Oui
+65;9042;15/05/2023;Sport;4;Avis client 65 sur Sport;Positif;46;En attente;Non
+66;9779;16/10/2023;Beaute;1;Avis client 66 sur Beaute;Negatif;45;Resolu;Non
+67;5858;26/06/2023;Beaute;1;Avis client 67 sur Beaute;Negatif;23;Resolu;Oui
+68;8156;31/05/2024;Electronique;4;Avis client 68 sur Electronique;Positif;8;En attente;Oui
+69;5028;12/04/2024;Maison;3;Avis client 69 sur Maison;Neutre;49;En attente;Non
+70;6318;13/02/2024;Electronique;4;Avis client 70 sur Electronique;Positif;35;Resolu;Non
+71;9598;08/03/2024;Sport;1;Avis client 71 sur Sport;Negatif;23;Resolu;Oui
+72;9952;09/03/2023;Electronique;5;Avis client 72 sur Electronique;Positif;29;Resolu;Non
+73;7645;19/08/2024;Electronique;3;Avis client 73 sur Electronique;Neutre;16;Non resolu;Oui
+74;6169;10/04/2023;Mode;2;Avis client 74 sur Mode;Negatif;59;Non resolu;Non
+75;7458;22/12/2024;Sport;1;Avis client 75 sur Sport;Negatif;22;Non resolu;Non
+76;9773;31/12/2023;Alimentation;5;Avis client 76 sur Alimentation;Positif;53;Resolu;Oui
+77;3665;24/02/2024;Mode;4;Avis client 77 sur Mode;Positif;8;En attente;Non
+78;8234;15/01/2023;Mode;2;Avis client 78 sur Mode;Negatif;13;Non resolu;Oui
+79;7249;07/06/2023;Maison;2;Avis client 79 sur Maison;Negatif;61;Resolu;Oui
+80;3412;08/10/2023;Mode;1;Avis client 80 sur Mode;Negatif;13;Non resolu;Oui
+81;5599;22/03/2024;Alimentation;3;Avis client 81 sur Alimentation;Neutre;54;Resolu;Oui
+82;3404;20/01/2024;Beaute;3;Avis client 82 sur Beaute;Neutre;26;Non resolu;Non
+83;3775;30/07/2023;Sport;2;Avis client 83 sur Sport;Negatif;38;Non resolu;Non
+84;1449;10/12/2024;Alimentation;3;Avis client 84 sur Alimentation;Neutre;20;En attente;Non
+85;8539;09/07/2023;Mode;1;Avis client 85 sur Mode;Negatif;46;Non resolu;Non
+86;5523;09/01/2024;Alimentation;1;Avis client 86 sur Alimentation;Negatif;23;Non resolu;Non
+87;3196;18/06/2024;Maison;5;Avis client 87 sur Maison;Positif;7;Resolu;Oui
+88;6885;29/06/2023;Voyages;3;Avis client 88 sur Voyages;Neutre;55;En attente;Non
+89;5816;12/05/2024;Alimentation;3;Avis client 89 sur Alimentation;Neutre;5;En attente;Oui
+90;3674;22/06/2023;Beaute;3;Avis client 90 sur Beaute;Neutre;21;Non resolu;Oui
+91;8636;28/11/2023;Sport;2;Avis client 91 sur Sport;Negatif;28;Non resolu;Non
+92;1999;19/02/2024;Sport;3;Avis client 92 sur Sport;Neutre;39;Non resolu;Oui
+93;3913;09/03/2024;Electronique;4;Avis client 93 sur Electronique;Positif;62;En attente;Oui
+94;6283;22/03/2023;Sport;1;Avis client 94 sur Sport;Negatif;20;Non resolu;Non
+95;1461;13/01/2023;Electronique;3;Avis client 95 sur Electronique;Neutre;9;En attente;Non
+96;5481;14/05/2023;Beaute;4;Avis client 96 sur Beaute;Positif;11;En attente;Non
+97;5428;10/11/2023;Beaute;2;Avis client 97 sur Beaute;Negatif;56;Resolu;Oui
+98;5901;04/04/2024;Mode;3;Avis client 98 sur Mode;Neutre;63;Resolu;Oui
+99;3161;14/03/2023;Mode;4;Avis client 99 sur Mode;Positif;54;Resolu;Non
+100;4976;27/12/2024;Electronique;5;Avis client 100 sur Electronique;Positif;61;Non resolu;Oui
+101;8377;16/10/2023;Maison;4;Avis client 101 sur Maison;Positif;28;Non resolu;Non
+102;1225;26/11/2023;Beaute;2;Avis client 102 sur Beaute;Negatif;60;Non resolu;Non
+103;8269;02/03/2023;Mode;5;Avis client 103 sur Mode;Positif;68;En attente;Non
+104;8517;04/03/2023;Electronique;2;Avis client 104 sur Electronique;Negatif;33;En attente;Oui
+105;3831;13/04/2024;Electronique;4;Avis client 105 sur Electronique;Positif;31;En attente;Non
+106;6751;25/05/2024;Voyages;4;Avis client 106 sur Voyages;Positif;17;Resolu;Oui
+107;8288;18/05/2024;Beaute;5;Avis client 107 sur Beaute;Positif;25;En attente;Oui
+108;5018;17/10/2023;Sport;1;Avis client 108 sur Sport;Negatif;70;En attente;Non
+109;5873;29/02/2024;Sport;2;Avis client 109 sur Sport;Negatif;24;Resolu;Non
+110;5798;22/11/2024;Mode;5;Avis client 110 sur Mode;Positif;27;Resolu;Non
+111;2834;17/02/2024;Beaute;3;Avis client 111 sur Beaute;Neutre;56;En attente;Non
+112;4910;02/12/2024;Sport;5;Avis client 112 sur Sport;Positif;56;Non resolu;Oui
+113;8415;16/03/2023;Sport;3;Avis client 113 sur Sport;Neutre;40;Non resolu;Non
+114;6624;24/09/2023;Mode;4;Avis client 114 sur Mode;Positif;42;Non resolu;Oui
+115;8676;09/02/2023;Maison;4;Avis client 115 sur Maison;Positif;12;Resolu;Non
+116;1224;17/01/2023;Maison;5;Avis client 116 sur Maison;Positif;32;En attente;Non
+117;7255;07/09/2023;Alimentation;1;Avis client 117 sur Alimentation;Negatif;65;En attente;Non
+118;8023;15/09/2024;Alimentation;4;Avis client 118 sur Alimentation;Positif;23;Resolu;Oui
+119;5523;21/04/2024;Maison;3;Avis client 119 sur Maison;Neutre;26;En attente;Oui
+120;1409;01/08/2024;Sport;4;Avis client 120 sur Sport;Positif;63;Non resolu;Non
+121;3965;20/11/2023;Alimentation;4;Avis client 121 sur Alimentation;Positif;15;Resolu;Non
+122;9006;26/12/2024;Electronique;1;Avis client 122 sur Electronique;Negatif;25;Resolu;Non
+123;8590;18/12/2023;Voyages;5;Avis client 123 sur Voyages;Positif;38;Resolu;Oui
+124;2810;07/05/2024;Mode;2;Avis client 124 sur Mode;Negatif;30;Non resolu;Non
+125;8013;29/06/2024;Sport;2;Avis client 125 sur Sport;Negatif;49;Resolu;Oui
+126;6105;13/01/2023;Voyages;1;Avis client 126 sur Voyages;Negatif;28;Resolu;Oui
+127;8470;08/01/2023;Mode;3;Avis client 127 sur Mode;Neutre;15;Non resolu;Non
+128;5676;12/06/2024;Beaute;2;Avis client 128 sur Beaute;Negatif;60;Non resolu;Oui
+129;7116;21/11/2023;Alimentation;3;Avis client 129 sur Alimentation;Neutre;38;Resolu;Oui
+130;4992;05/01/2023;Maison;5;Avis client 130 sur Maison;Positif;61;Resolu;Oui
+131;7870;14/04/2023;Electronique;4;Avis client 131 sur Electronique;Positif;31;Non resolu;Oui
+132;6771;30/06/2023;Sport;4;Avis client 132 sur Sport;Positif;14;Resolu;Non
+133;8461;31/10/2023;Mode;2;Avis client 133 sur Mode;Negatif;58;En attente;Oui
+134;1115;28/05/2024;Voyages;2;Avis client 134 sur Voyages;Negatif;30;En attente;Oui
+135;3376;15/09/2023;Sport;1;Avis client 135 sur Sport;Negatif;46;Non resolu;Non
+136;6776;01/10/2024;Sport;1;Avis client 136 sur Sport;Negatif;8;Resolu;Oui
+137;3331;22/03/2024;Electronique;1;Avis client 137 sur Electronique;Negatif;61;En attente;Non
+138;9140;25/03/2024;Maison;3;Avis client 138 sur Maison;Neutre;69;En attente;Oui
+139;3198;31/08/2023;Sport;1;Avis client 139 sur Sport;Negatif;54;Non resolu;Non
+140;6664;02/03/2024;Mode;2;Avis client 140 sur Mode;Negatif;47;Non resolu;Non
+141;7602;09/08/2023;Sport;3;Avis client 141 sur Sport;Neutre;65;Resolu;Non
+142;8749;06/11/2024;Mode;5;Avis client 142 sur Mode;Positif;68;Non resolu;Oui
+143;3866;25/05/2024;Sport;5;Avis client 143 sur Sport;Positif;68;Resolu;Non
+144;4497;06/06/2024;Electronique;4;Avis client 144 sur Electronique;Positif;8;Non resolu;Non
+145;6589;23/06/2023;Electronique;5;Avis client 145 sur Electronique;Positif;1;Non resolu;Oui
+146;8801;02/07/2024;Alimentation;3;Avis client 146 sur Alimentation;Neutre;10;Non resolu;Oui
+147;9095;04/11/2023;Sport;2;Avis client 147 sur Sport;Negatif;35;Non resolu;Oui
+148;5074;27/09/2023;Sport;5;Avis client 148 sur Sport;Positif;57;Non resolu;Non
+149;7219;02/06/2023;Mode;4;Avis client 149 sur Mode;Positif;21;Non resolu;Oui
+150;8115;20/07/2024;Beaute;1;Avis client 150 sur Beaute;Negatif;10;En attente;Oui
+151;3461;05/12/2023;Alimentation;4;Avis client 151 sur Alimentation;Positif;69;En attente;Oui
+152;5235;05/04/2024;Electronique;4;Avis client 152 sur Electronique;Positif;31;En attente;Oui
+153;6590;31/12/2024;Voyages;4;Avis client 153 sur Voyages;Positif;20;Non resolu;Oui
+154;1031;17/10/2023;Maison;4;Avis client 154 sur Maison;Positif;36;En attente;Non
+155;3139;16/09/2024;Mode;1;Avis client 155 sur Mode;Negatif;55;Resolu;Non
+156;1293;21/04/2024;Mode;5;Avis client 156 sur Mode;Positif;43;Resolu;Oui
+157;7254;22/09/2023;Mode;4;Avis client 157 sur Mode;Positif;1;Resolu;Oui
+158;4399;17/07/2024;Voyages;5;Avis client 158 sur Voyages;Positif;19;En attente;Non
+159;8061;19/05/2024;Sport;1;Avis client 159 sur Sport;Negatif;64;Non resolu;Non
+160;5282;13/08/2024;Electronique;5;Avis client 160 sur Electronique;Positif;41;Non resolu;Oui
+161;3512;08/02/2023;Mode;1;Avis client 161 sur Mode;Negatif;11;En attente;Non
+162;8093;15/01/2023;Alimentation;2;Avis client 162 sur Alimentation;Negatif;13;Non resolu;Non
+163;4697;07/06/2024;Maison;1;Avis client 163 sur Maison;Negatif;26;En attente;Oui
+164;6247;01/04/2024;Alimentation;4;Avis client 164 sur Alimentation;Positif;68;Non resolu;Non
+165;4399;12/12/2024;Sport;5;Avis client 165 sur Sport;Positif;6;Resolu;Oui
+166;6063;20/04/2023;Beaute;1;Avis client 166 sur Beaute;Negatif;23;Resolu;Oui
+167;4428;03/02/2024;Sport;1;Avis client 167 sur Sport;Negatif;58;Resolu;Non
+168;8576;04/07/2023;Alimentation;4;Avis client 168 sur Alimentation;Positif;57;Non resolu;Non
+169;6219;14/10/2023;Sport;4;Avis client 169 sur Sport;Positif;70;En attente;Oui
+170;7666;13/12/2023;Electronique;1;Avis client 170 sur Electronique;Negatif;72;Non resolu;Non
+171;3834;18/10/2023;Voyages;5;Avis client 171 sur Voyages;Positif;19;Resolu;Oui
+172;3786;18/10/2024;Voyages;1;Avis client 172 sur Voyages;Negatif;11;Resolu;Oui
+173;1311;03/10/2024;Alimentation;3;Avis client 173 sur Alimentation;Neutre;41;En attente;Oui
+174;8489;04/08/2024;Alimentation;5;Avis client 174 sur Alimentation;Positif;50;En attente;Oui
+175;5164;21/12/2024;Beaute;3;Avis client 175 sur Beaute;Neutre;33;Non resolu;Oui
+176;7303;18/03/2024;Beaute;1;Avis client 176 sur Beaute;Negatif;5;Resolu;Oui
+177;2727;07/02/2024;Sport;4;Avis client 177 sur Sport;Positif;56;En attente;Oui
+178;3076;09/06/2023;Beaute;4;Avis client 178 sur Beaute;Positif;10;Resolu;Oui
+179;6013;02/03/2024;Maison;5;Avis client 179 sur Maison;Positif;33;Non resolu;Oui
+180;5647;29/08/2024;Alimentation;5;Avis client 180 sur Alimentation;Positif;57;En attente;Non
+181;6261;18/07/2024;Electronique;1;Avis client 181 sur Electronique;Negatif;15;Resolu;Non
+182;1903;07/02/2023;Voyages;2;Avis client 182 sur Voyages;Negatif;32;Resolu;Non
+183;7216;04/12/2023;Beaute;2;Avis client 183 sur Beaute;Negatif;6;En attente;Oui
+184;1808;27/02/2024;Maison;4;Avis client 184 sur Maison;Positif;28;Resolu;Non
+185;4529;29/11/2024;Mode;4;Avis client 185 sur Mode;Positif;45;En attente;Oui
+186;5735;08/08/2023;Beaute;1;Avis client 186 sur Beaute;Negatif;21;En attente;Oui
+187;3298;04/05/2023;Electronique;1;Avis client 187 sur Electronique;Negatif;69;Non resolu;Non
+188;6492;17/04/2024;Beaute;3;Avis client 188 sur Beaute;Neutre;58;En attente;Oui
+189;8026;30/05/2024;Sport;2;Avis client 189 sur Sport;Negatif;33;En attente;Non
+190;5950;15/02/2024;Sport;2;Avis client 190 sur Sport;Negatif;41;En attente;Oui
+191;1859;14/09/2024;Beaute;4;Avis client 191 sur Beaute;Positif;5;Non resolu;Non
+192;5676;15/12/2024;Voyages;1;Avis client 192 sur Voyages;Negatif;15;Resolu;Oui
+193;9442;10/06/2023;Mode;3;Avis client 193 sur Mode;Neutre;40;En attente;Oui
+194;4389;18/03/2023;Mode;1;Avis client 194 sur Mode;Negatif;70;En attente;Non
+195;4082;21/10/2023;Mode;5;Avis client 195 sur Mode;Positif;49;En attente;Non
+196;1252;07/11/2023;Sport;1;Avis client 196 sur Sport;Negatif;2;En attente;Oui
+197;9604;16/01/2024;Beaute;4;Avis client 197 sur Beaute;Positif;24;Non resolu;Oui
+198;4701;09/05/2023;Electronique;1;Avis client 198 sur Electronique;Negatif;54;En attente;Oui
+199;1814;29/11/2024;Beaute;2;Avis client 199 sur Beaute;Negatif;49;En attente;Oui
+200;7080;25/07/2024;Mode;1;Avis client 200 sur Mode;Negatif;55;Non resolu;Oui
+201;6802;12/01/2023;Maison;2;Avis client 201 sur Maison;Negatif;30;En attente;Oui
+202;7709;08/12/2023;Voyages;5;Avis client 202 sur Voyages;Positif;50;Resolu;Oui
+203;4967;06/01/2024;Sport;3;Avis client 203 sur Sport;Neutre;51;En attente;Oui
+204;7274;11/11/2024;Beaute;1;Avis client 204 sur Beaute;Negatif;13;Resolu;Oui
+205;1846;29/06/2023;Sport;1;Avis client 205 sur Sport;Negatif;54;En attente;Non
+206;2765;28/06/2024;Sport;3;Avis client 206 sur Sport;Neutre;11;Resolu;Oui
+207;5429;19/12/2024;Maison;2;Avis client 207 sur Maison;Negatif;34;En attente;Oui
+208;6752;11/06/2023;Sport;4;Avis client 208 sur Sport;Positif;58;En attente;Oui
+209;2844;02/10/2023;Electronique;1;Avis client 209 sur Electronique;Negatif;6;En attente;Non
+210;9686;25/09/2024;Electronique;3;Avis client 210 sur Electronique;Neutre;67;Resolu;Non
+211;7429;03/07/2023;Beaute;4;Avis client 211 sur Beaute;Positif;10;Resolu;Oui
+212;2943;14/07/2024;Sport;2;Avis client 212 sur Sport;Negatif;40;Resolu;Non
+213;9113;17/12/2024;Mode;1;Avis client 213 sur Mode;Negatif;18;Non resolu;Non
+214;5067;24/01/2023;Sport;1;Avis client 214 sur Sport;Negatif;6;Resolu;Non
+215;4894;28/05/2023;Alimentation;3;Avis client 215 sur Alimentation;Neutre;30;En attente;Oui
+216;1039;11/10/2023;Beaute;2;Avis client 216 sur Beaute;Negatif;62;Non resolu;Oui
+217;3516;19/02/2024;Voyages;2;Avis client 217 sur Voyages;Negatif;14;En attente;Non
+218;5245;19/05/2024;Voyages;5;Avis client 218 sur Voyages;Positif;2;Non resolu;Oui
+219;8888;22/05/2024;Electronique;2;Avis client 219 sur Electronique;Negatif;17;Resolu;Oui
+220;6691;18/02/2024;Maison;4;Avis client 220 sur Maison;Positif;39;Resolu;Oui
+221;5981;08/06/2024;Beaute;2;Avis client 221 sur Beaute;Negatif;7;Non resolu;Non
+222;7101;15/03/2023;Electronique;1;Avis client 222 sur Electronique;Negatif;49;En attente;Oui
+223;8061;12/12/2024;Mode;1;Avis client 223 sur Mode;Negatif;36;Non resolu;Non
+224;1708;31/08/2024;Mode;2;Avis client 224 sur Mode;Negatif;14;Non resolu;Non
+225;7952;08/12/2023;Maison;5;Avis client 225 sur Maison;Positif;2;Non resolu;Non
+226;5312;14/01/2023;Electronique;5;Avis client 226 sur Electronique;Positif;49;En attente;Non
+227;7795;09/09/2023;Beaute;3;Avis client 227 sur Beaute;Neutre;53;En attente;Oui
+228;9029;29/10/2024;Mode;5;Avis client 228 sur Mode;Positif;60;Non resolu;Non
+229;1464;08/09/2024;Sport;4;Avis client 229 sur Sport;Positif;10;En attente;Oui
+230;8104;14/11/2024;Sport;3;Avis client 230 sur Sport;Neutre;18;En attente;Oui
+231;1772;22/08/2024;Electronique;4;Avis client 231 sur Electronique;Positif;63;Non resolu;Non
+232;6326;31/07/2024;Mode;4;Avis client 232 sur Mode;Positif;53;Resolu;Oui
+233;7288;25/07/2024;Mode;2;Avis client 233 sur Mode;Negatif;72;En attente;Non
+234;7091;14/03/2024;Electronique;5;Avis client 234 sur Electronique;Positif;40;Non resolu;Oui
+235;4489;18/09/2024;Electronique;5;Avis client 235 sur Electronique;Positif;42;Resolu;Non
+236;7396;26/07/2023;Alimentation;3;Avis client 236 sur Alimentation;Neutre;46;En attente;Oui
+237;4112;13/09/2024;Mode;4;Avis client 237 sur Mode;Positif;2;Non resolu;Non
+238;4231;13/10/2024;Voyages;4;Avis client 238 sur Voyages;Positif;8;Non resolu;Non
+239;4930;02/02/2023;Mode;1;Avis client 239 sur Mode;Negatif;57;En attente;Oui
+240;1905;15/11/2023;Alimentation;1;Avis client 240 sur Alimentation;Negatif;7;Non resolu;Oui
+241;3507;09/08/2023;Beaute;5;Avis client 241 sur Beaute;Positif;2;En attente;Oui
+242;7188;05/11/2023;Sport;2;Avis client 242 sur Sport;Negatif;44;En attente;Oui
+243;9158;13/09/2023;Electronique;4;Avis client 243 sur Electronique;Positif;38;Resolu;Oui
+244;1321;25/08/2024;Beaute;1;Avis client 244 sur Beaute;Negatif;38;Resolu;Oui
+245;7670;06/11/2023;Mode;5;Avis client 245 sur Mode;Positif;63;Non resolu;Oui
+246;7385;31/08/2024;Mode;3;Avis client 246 sur Mode;Neutre;5;Non resolu;Non
+247;2915;31/12/2024;Beaute;3;Avis client 247 sur Beaute;Neutre;63;Resolu;Non
+248;2015;17/03/2024;Beaute;5;Avis client 248 sur Beaute;Positif;45;Non resolu;Non
+249;3622;22/06/2023;Maison;5;Avis client 249 sur Maison;Positif;26;En attente;Oui
+250;3153;03/06/2023;Electronique;1;Avis client 250 sur Electronique;Negatif;30;En attente;Non
+251;5139;21/02/2024;Mode;2;Avis client 251 sur Mode;Negatif;7;En attente;Non
+252;8817;03/01/2024;Beaute;2;Avis client 252 sur Beaute;Negatif;9;Non resolu;Non
+253;9949;14/05/2023;Voyages;1;Avis client 253 sur Voyages;Negatif;70;Non resolu;Non
+254;2167;01/08/2024;Alimentation;4;Avis client 254 sur Alimentation;Positif;71;Resolu;Non
+255;1291;28/10/2023;Beaute;3;Avis client 255 sur Beaute;Neutre;30;Non resolu;Oui
+256;8546;30/08/2023;Electronique;4;Avis client 256 sur Electronique;Positif;55;Non resolu;Non
+257;1937;05/01/2023;Voyages;2;Avis client 257 sur Voyages;Negatif;47;Non resolu;Oui
+258;6830;03/12/2023;Electronique;2;Avis client 258 sur Electronique;Negatif;27;Resolu;Non
+259;9981;24/04/2024;Beaute;3;Avis client 259 sur Beaute;Neutre;20;En attente;Oui
+260;2806;07/08/2024;Sport;3;Avis client 260 sur Sport;Neutre;20;Non resolu;Oui
+261;7980;22/01/2023;Beaute;1;Avis client 261 sur Beaute;Negatif;14;En attente;Oui
+262;5914;17/07/2023;Voyages;1;Avis client 262 sur Voyages;Negatif;3;Non resolu;Oui
+263;3895;21/04/2023;Sport;5;Avis client 263 sur Sport;Positif;11;Non resolu;Non
+264;3956;26/05/2024;Voyages;2;Avis client 264 sur Voyages;Negatif;45;En attente;Oui
+265;1147;02/03/2023;Electronique;3;Avis client 265 sur Electronique;Neutre;2;En attente;Non
+266;9446;23/03/2024;Mode;4;Avis client 266 sur Mode;Positif;29;En attente;Oui
+267;8087;12/03/2024;Voyages;2;Avis client 267 sur Voyages;Negatif;62;Non resolu;Oui
+268;8092;08/09/2023;Alimentation;1;Avis client 268 sur Alimentation;Negatif;26;Resolu;Oui
+269;2803;06/11/2023;Maison;1;Avis client 269 sur Maison;Negatif;31;Resolu;Oui
+270;8550;14/11/2024;Voyages;2;Avis client 270 sur Voyages;Negatif;24;Non resolu;Non
+271;7060;02/05/2023;Alimentation;5;Avis client 271 sur Alimentation;Positif;12;En attente;Non
+272;1915;31/03/2024;Maison;2;Avis client 272 sur Maison;Negatif;11;En attente;Oui
+273;1232;29/07/2024;Mode;5;Avis client 273 sur Mode;Positif;70;Resolu;Non
+274;1202;12/01/2024;Mode;5;Avis client 274 sur Mode;Positif;67;Resolu;Non
+275;6402;07/07/2023;Beaute;3;Avis client 275 sur Beaute;Neutre;22;Non resolu;Non
+276;4823;19/03/2023;Alimentation;5;Avis client 276 sur Alimentation;Positif;35;Non resolu;Non
+277;9711;31/05/2024;Electronique;2;Avis client 277 sur Electronique;Negatif;59;Resolu;Non
+278;2399;01/03/2024;Voyages;5;Avis client 278 sur Voyages;Positif;47;En attente;Non
+279;9771;25/12/2023;Sport;5;Avis client 279 sur Sport;Positif;50;Non resolu;Non
+280;3815;15/06/2023;Electronique;2;Avis client 280 sur Electronique;Negatif;56;En attente;Non
+281;1980;19/02/2024;Beaute;2;Avis client 281 sur Beaute;Negatif;57;En attente;Oui
+282;6447;08/11/2024;Maison;3;Avis client 282 sur Maison;Neutre;56;Resolu;Oui
+283;8973;06/11/2023;Maison;5;Avis client 283 sur Maison;Positif;1;Resolu;Non
+284;2925;22/06/2023;Alimentation;5;Avis client 284 sur Alimentation;Positif;8;En attente;Oui
+285;5981;26/12/2023;Maison;5;Avis client 285 sur Maison;Positif;1;Non resolu;Oui
+286;3065;27/02/2023;Sport;1;Avis client 286 sur Sport;Negatif;10;En attente;Oui
+287;3936;30/09/2024;Mode;3;Avis client 287 sur Mode;Neutre;67;Non resolu;Oui
+288;9413;06/09/2024;Mode;5;Avis client 288 sur Mode;Positif;38;Non resolu;Non
+289;3422;08/09/2024;Beaute;5;Avis client 289 sur Beaute;Positif;65;Non resolu;Non
+290;2525;05/01/2024;Sport;3;Avis client 290 sur Sport;Neutre;32;Non resolu;Non
+291;1466;12/06/2024;Voyages;1;Avis client 291 sur Voyages;Negatif;4;Non resolu;Non
+292;7363;26/12/2024;Maison;3;Avis client 292 sur Maison;Neutre;37;En attente;Oui
+293;2511;18/02/2023;Voyages;2;Avis client 293 sur Voyages;Negatif;5;Resolu;Non
+294;5651;06/03/2023;Mode;5;Avis client 294 sur Mode;Positif;62;Resolu;Oui
+295;9206;06/02/2024;Beaute;2;Avis client 295 sur Beaute;Negatif;20;En attente;Non
+296;1241;19/09/2023;Beaute;3;Avis client 296 sur Beaute;Neutre;44;En attente;Oui
+297;3307;13/01/2024;Sport;5;Avis client 297 sur Sport;Positif;67;Resolu;Non
+298;7039;31/12/2023;Electronique;1;Avis client 298 sur Electronique;Negatif;68;Non resolu;Non
+299;7671;30/03/2024;Voyages;2;Avis client 299 sur Voyages;Negatif;57;En attente;Oui
+300;6743;27/12/2024;Mode;2;Avis client 300 sur Mode;Negatif;30;Resolu;Non
+301;1459;17/05/2024;Maison;3;Avis client 301 sur Maison;Neutre;59;Resolu;Oui
+302;2645;27/04/2024;Maison;4;Avis client 302 sur Maison;Positif;36;En attente;Oui
+303;9319;31/12/2023;Alimentation;3;Avis client 303 sur Alimentation;Neutre;54;En attente;Oui
+304;7391;13/01/2024;Voyages;3;Avis client 304 sur Voyages;Neutre;44;Resolu;Non
+305;9788;28/12/2024;Mode;4;Avis client 305 sur Mode;Positif;37;Resolu;Non
+306;5223;24/03/2023;Beaute;3;Avis client 306 sur Beaute;Neutre;70;Non resolu;Non
+307;3166;15/04/2023;Mode;5;Avis client 307 sur Mode;Positif;19;Non resolu;Oui
+308;3011;21/10/2024;Alimentation;2;Avis client 308 sur Alimentation;Negatif;26;En attente;Oui
+309;3660;10/11/2023;Maison;2;Avis client 309 sur Maison;Negatif;47;Non resolu;Oui
+310;6485;03/10/2023;Beaute;5;Avis client 310 sur Beaute;Positif;7;Resolu;Non
+311;7731;10/02/2024;Alimentation;1;Avis client 311 sur Alimentation;Negatif;12;Non resolu;Non
+312;3578;12/12/2023;Maison;2;Avis client 312 sur Maison;Negatif;38;En attente;Non
+313;8982;19/11/2024;Alimentation;1;Avis client 313 sur Alimentation;Negatif;39;Non resolu;Oui
+314;3060;17/04/2024;Beaute;3;Avis client 314 sur Beaute;Neutre;40;En attente;Non
+315;6322;06/10/2024;Voyages;1;Avis client 315 sur Voyages;Negatif;13;En attente;Non
+316;5534;25/02/2024;Electronique;4;Avis client 316 sur Electronique;Positif;65;En attente;Oui
+317;4664;21/01/2024;Alimentation;2;Avis client 317 sur Alimentation;Negatif;44;En attente;Oui
+318;6925;15/03/2024;Electronique;3;Avis client 318 sur Electronique;Neutre;19;Resolu;Non
+319;9854;18/03/2024;Beaute;5;Avis client 319 sur Beaute;Positif;58;En attente;Non
+320;3597;01/01/2024;Voyages;3;Avis client 320 sur Voyages;Neutre;6;Non resolu;Oui
+321;1708;21/01/2023;Alimentation;4;Avis client 321 sur Alimentation;Positif;37;Resolu;Oui
+322;1690;03/10/2024;Maison;5;Avis client 322 sur Maison;Positif;59;Non resolu;Oui
+323;3570;03/06/2023;Alimentation;3;Avis client 323 sur Alimentation;Neutre;6;Non resolu;Oui
+324;2561;18/06/2023;Mode;5;Avis client 324 sur Mode;Positif;14;En attente;Non
+325;3405;23/01/2024;Maison;5;Avis client 325 sur Maison;Positif;8;En attente;Oui
+326;8019;08/09/2024;Maison;4;Avis client 326 sur Maison;Positif;63;Resolu;Oui
+327;8742;13/08/2024;Sport;5;Avis client 327 sur Sport;Positif;51;En attente;Non
+328;2460;03/10/2024;Electronique;5;Avis client 328 sur Electronique;Positif;72;Non resolu;Non
+329;5450;19/05/2024;Maison;3;Avis client 329 sur Maison;Neutre;67;Resolu;Non
+330;6770;11/05/2023;Mode;4;Avis client 330 sur Mode;Positif;26;En attente;Non
+331;8974;10/12/2024;Electronique;5;Avis client 331 sur Electronique;Positif;37;Resolu;Non
+332;4884;29/01/2023;Mode;2;Avis client 332 sur Mode;Negatif;18;Non resolu;Oui
+333;7779;05/12/2024;Beaute;4;Avis client 333 sur Beaute;Positif;66;Resolu;Non
+334;2195;31/01/2024;Alimentation;1;Avis client 334 sur Alimentation;Negatif;6;Resolu;Non
+335;4895;02/01/2023;Maison;3;Avis client 335 sur Maison;Neutre;41;Non resolu;Oui
+336;1221;06/12/2023;Sport;1;Avis client 336 sur Sport;Negatif;69;Resolu;Oui
+337;5813;31/03/2023;Beaute;4;Avis client 337 sur Beaute;Positif;14;Non resolu;Oui
+338;6679;11/07/2024;Voyages;2;Avis client 338 sur Voyages;Negatif;34;En attente;Oui
+339;6329;08/09/2023;Beaute;3;Avis client 339 sur Beaute;Neutre;69;Resolu;Oui
+340;4198;08/01/2024;Alimentation;5;Avis client 340 sur Alimentation;Positif;69;Non resolu;Non
+341;9074;06/01/2024;Sport;2;Avis client 341 sur Sport;Negatif;30;En attente;Non
+342;8446;21/08/2024;Mode;3;Avis client 342 sur Mode;Neutre;64;Resolu;Non
+343;8601;09/01/2024;Mode;5;Avis client 343 sur Mode;Positif;64;Resolu;Non
+344;1645;05/08/2023;Voyages;4;Avis client 344 sur Voyages;Positif;53;Resolu;Non
+345;2964;25/03/2023;Beaute;3;Avis client 345 sur Beaute;Neutre;5;Resolu;Oui
+346;1987;26/08/2023;Mode;2;Avis client 346 sur Mode;Negatif;13;En attente;Oui
+347;8421;04/08/2023;Beaute;1;Avis client 347 sur Beaute;Negatif;56;En attente;Non
+348;9249;21/02/2023;Mode;3;Avis client 348 sur Mode;Neutre;22;En attente;Non
+349;6681;18/11/2024;Maison;3;Avis client 349 sur Maison;Neutre;42;Resolu;Oui
+350;1006;16/09/2024;Voyages;5;Avis client 350 sur Voyages;Positif;14;Non resolu;Non
+351;1770;30/06/2023;Electronique;4;Avis client 351 sur Electronique;Positif;53;Resolu;Oui
+352;2658;02/01/2023;Electronique;1;Avis client 352 sur Electronique;Negatif;44;Resolu;Oui
+353;6546;18/11/2023;Voyages;4;Avis client 353 sur Voyages;Positif;61;Non resolu;Oui
+354;1297;29/05/2024;Alimentation;4;Avis client 354 sur Alimentation;Positif;67;Resolu;Non
+355;1646;20/01/2024;Alimentation;3;Avis client 355 sur Alimentation;Neutre;47;Non resolu;Oui
+356;2285;29/01/2023;Maison;5;Avis client 356 sur Maison;Positif;39;Resolu;Oui
+357;7962;08/04/2023;Sport;5;Avis client 357 sur Sport;Positif;19;Resolu;Non
+358;7269;02/08/2024;Mode;1;Avis client 358 sur Mode;Negatif;69;Non resolu;Non
+359;5376;15/04/2024;Electronique;1;Avis client 359 sur Electronique;Negatif;72;Non resolu;Oui
+360;8445;26/11/2024;Beaute;1;Avis client 360 sur Beaute;Negatif;34;Resolu;Oui
+361;4706;16/06/2023;Sport;3;Avis client 361 sur Sport;Neutre;38;En attente;Non
+362;3830;14/11/2024;Sport;4;Avis client 362 sur Sport;Positif;27;Non resolu;Oui
+363;9472;01/09/2024;Alimentation;4;Avis client 363 sur Alimentation;Positif;29;En attente;Non
+364;2421;15/04/2024;Maison;2;Avis client 364 sur Maison;Negatif;57;Resolu;Oui
+365;5996;30/01/2023;Sport;3;Avis client 365 sur Sport;Neutre;25;Non resolu;Non
+366;5500;23/11/2024;Alimentation;3;Avis client 366 sur Alimentation;Neutre;53;Non resolu;Non
+367;8210;14/12/2023;Electronique;2;Avis client 367 sur Electronique;Negatif;62;Resolu;Oui
+368;6946;11/08/2024;Alimentation;2;Avis client 368 sur Alimentation;Negatif;39;Resolu;Oui
+369;2053;11/11/2024;Beaute;3;Avis client 369 sur Beaute;Neutre;23;Resolu;Oui
+370;7392;21/04/2024;Beaute;4;Avis client 370 sur Beaute;Positif;67;Resolu;Non
+371;7517;24/04/2024;Mode;5;Avis client 371 sur Mode;Positif;35;En attente;Non
+372;5271;05/03/2023;Voyages;1;Avis client 372 sur Voyages;Negatif;9;Resolu;Oui
+373;5080;29/03/2024;Alimentation;3;Avis client 373 sur Alimentation;Neutre;71;Non resolu;Non
+374;9405;03/01/2023;Voyages;5;Avis client 374 sur Voyages;Positif;57;Non resolu;Non
+375;8004;19/07/2023;Sport;2;Avis client 375 sur Sport;Negatif;24;Resolu;Non
+376;7414;04/07/2023;Mode;3;Avis client 376 sur Mode;Neutre;12;Non resolu;Non
+377;2503;22/05/2023;Electronique;4;Avis client 377 sur Electronique;Positif;54;Resolu;Non
+378;8007;24/04/2023;Alimentation;1;Avis client 378 sur Alimentation;Negatif;58;En attente;Oui
+379;1608;24/05/2024;Voyages;4;Avis client 379 sur Voyages;Positif;71;Non resolu;Oui
+380;2815;19/06/2024;Sport;3;Avis client 380 sur Sport;Neutre;21;En attente;Non
+381;8722;12/11/2023;Alimentation;4;Avis client 381 sur Alimentation;Positif;10;En attente;Non
+382;6202;17/04/2023;Alimentation;3;Avis client 382 sur Alimentation;Neutre;4;En attente;Non
+383;5928;07/09/2023;Alimentation;3;Avis client 383 sur Alimentation;Neutre;53;Non resolu;Oui
+384;6559;08/04/2023;Sport;2;Avis client 384 sur Sport;Negatif;8;Non resolu;Non
+385;5353;24/11/2023;Maison;4;Avis client 385 sur Maison;Positif;1;Resolu;Non
+386;1019;14/08/2023;Mode;2;Avis client 386 sur Mode;Negatif;23;Resolu;Oui
+387;2937;05/06/2024;Alimentation;1;Avis client 387 sur Alimentation;Negatif;1;En attente;Non
+388;4523;21/05/2024;Maison;1;Avis client 388 sur Maison;Negatif;36;En attente;Oui
+389;9972;14/07/2024;Alimentation;5;Avis client 389 sur Alimentation;Positif;7;Resolu;Non
+390;7779;17/04/2024;Voyages;1;Avis client 390 sur Voyages;Negatif;23;Non resolu;Oui
+391;3286;17/02/2024;Voyages;2;Avis client 391 sur Voyages;Negatif;21;Non resolu;Non
+392;6212;25/04/2024;Maison;1;Avis client 392 sur Maison;Negatif;16;En attente;Oui
+393;1386;15/12/2023;Sport;2;Avis client 393 sur Sport;Negatif;41;Resolu;Non
+394;4303;25/03/2024;Voyages;5;Avis client 394 sur Voyages;Positif;5;Resolu;Non
+395;6943;13/11/2023;Sport;2;Avis client 395 sur Sport;Negatif;66;Resolu;Oui
+396;3493;19/04/2024;Electronique;2;Avis client 396 sur Electronique;Negatif;29;En attente;Oui
+397;5033;11/03/2023;Maison;4;Avis client 397 sur Maison;Positif;25;En attente;Oui
+398;2140;01/02/2023;Voyages;2;Avis client 398 sur Voyages;Negatif;25;En attente;Oui
+399;1957;12/06/2023;Alimentation;3;Avis client 399 sur Alimentation;Neutre;45;Non resolu;Oui
+400;6124;27/05/2024;Mode;2;Avis client 400 sur Mode;Negatif;58;Resolu;Non
+401;4132;26/04/2023;Mode;3;Avis client 401 sur Mode;Neutre;49;Resolu;Non
+402;1292;29/11/2023;Maison;1;Avis client 402 sur Maison;Negatif;8;En attente;Oui
+403;7481;05/02/2023;Maison;3;Avis client 403 sur Maison;Neutre;21;En attente;Non
+404;6296;02/09/2023;Alimentation;1;Avis client 404 sur Alimentation;Negatif;38;En attente;Oui
+405;8890;22/02/2024;Mode;5;Avis client 405 sur Mode;Positif;71;Non resolu;Non
+406;4087;02/01/2023;Beaute;2;Avis client 406 sur Beaute;Negatif;2;Resolu;Non
+407;1015;23/09/2024;Beaute;5;Avis client 407 sur Beaute;Positif;40;En attente;Oui
+408;9630;20/01/2023;Alimentation;3;Avis client 408 sur Alimentation;Neutre;44;Non resolu;Oui
+409;8941;11/01/2024;Alimentation;3;Avis client 409 sur Alimentation;Neutre;44;En attente;Oui
+410;9048;18/12/2023;Alimentation;2;Avis client 410 sur Alimentation;Negatif;46;En attente;Oui
+411;8325;03/06/2024;Electronique;5;Avis client 411 sur Electronique;Positif;57;En attente;Non
+412;1780;11/03/2024;Alimentation;1;Avis client 412 sur Alimentation;Negatif;11;En attente;Oui
+413;1266;06/05/2023;Sport;3;Avis client 413 sur Sport;Neutre;3;Resolu;Oui
+414;1277;22/03/2024;Mode;5;Avis client 414 sur Mode;Positif;5;En attente;Non
+415;7291;27/12/2023;Electronique;2;Avis client 415 sur Electronique;Negatif;67;En attente;Oui
+416;5400;25/09/2023;Beaute;3;Avis client 416 sur Beaute;Neutre;51;Non resolu;Non
+417;3719;11/12/2024;Beaute;5;Avis client 417 sur Beaute;Positif;22;Non resolu;Oui
+418;9310;20/03/2024;Beaute;1;Avis client 418 sur Beaute;Negatif;38;Non resolu;Non
+419;8892;09/05/2023;Mode;2;Avis client 419 sur Mode;Negatif;39;Non resolu;Oui
+420;7639;20/01/2024;Maison;4;Avis client 420 sur Maison;Positif;37;En attente;Oui
+421;3356;30/11/2024;Voyages;3;Avis client 421 sur Voyages;Neutre;71;Non resolu;Oui
+422;7110;01/06/2024;Electronique;4;Avis client 422 sur Electronique;Positif;49;Resolu;Non
+423;6392;21/08/2024;Voyages;1;Avis client 423 sur Voyages;Negatif;72;En attente;Non
+424;6751;19/12/2024;Beaute;2;Avis client 424 sur Beaute;Negatif;1;En attente;Non
+425;7421;04/02/2024;Maison;2;Avis client 425 sur Maison;Negatif;31;Resolu;Oui
+426;3583;06/08/2023;Maison;1;Avis client 426 sur Maison;Negatif;61;Non resolu;Non
+427;7611;09/07/2023;Alimentation;4;Avis client 427 sur Alimentation;Positif;49;Resolu;Non
+428;9012;30/11/2024;Alimentation;1;Avis client 428 sur Alimentation;Negatif;38;En attente;Non
+429;3326;30/01/2024;Alimentation;5;Avis client 429 sur Alimentation;Positif;69;En attente;Oui
+430;2205;31/10/2024;Voyages;5;Avis client 430 sur Voyages;Positif;40;En attente;Oui
+431;4985;19/12/2024;Alimentation;1;Avis client 431 sur Alimentation;Negatif;5;En attente;Non
+432;2191;03/02/2024;Voyages;5;Avis client 432 sur Voyages;Positif;8;En attente;Non
+433;6852;28/10/2023;Alimentation;3;Avis client 433 sur Alimentation;Neutre;71;Resolu;Oui
+434;9240;16/12/2024;Voyages;1;Avis client 434 sur Voyages;Negatif;51;Resolu;Non
+435;4826;29/03/2024;Electronique;3;Avis client 435 sur Electronique;Neutre;17;Non resolu;Non
+436;4726;26/12/2023;Maison;2;Avis client 436 sur Maison;Negatif;38;Non resolu;Non
+437;4986;15/06/2024;Mode;1;Avis client 437 sur Mode;Negatif;29;Resolu;Oui
+438;3572;05/08/2024;Sport;3;Avis client 438 sur Sport;Neutre;50;Non resolu;Oui
+439;3265;19/07/2024;Electronique;5;Avis client 439 sur Electronique;Positif;42;Resolu;Oui
+440;8823;21/02/2023;Maison;5;Avis client 440 sur Maison;Positif;68;Resolu;Non
+441;2332;27/08/2023;Beaute;2;Avis client 441 sur Beaute;Negatif;51;Non resolu;Oui
+442;8844;27/07/2023;Electronique;2;Avis client 442 sur Electronique;Negatif;56;Non resolu;Non
+443;4317;28/05/2024;Sport;5;Avis client 443 sur Sport;Positif;24;Resolu;Non
+444;5096;25/11/2024;Voyages;2;Avis client 444 sur Voyages;Negatif;53;Non resolu;Oui
+445;3989;17/04/2024;Alimentation;1;Avis client 445 sur Alimentation;Negatif;64;En attente;Non
+446;8986;01/05/2023;Voyages;1;Avis client 446 sur Voyages;Negatif;32;Non resolu;Oui
+447;2240;23/12/2023;Electronique;4;Avis client 447 sur Electronique;Positif;15;En attente;Oui
+448;7232;18/08/2024;Beaute;3;Avis client 448 sur Beaute;Neutre;32;Non resolu;Non
+449;5210;10/12/2023;Maison;5;Avis client 449 sur Maison;Positif;45;Non resolu;Oui
+450;4635;26/05/2023;Maison;4;Avis client 450 sur Maison;Positif;15;Non resolu;Non
+451;4190;28/07/2023;Voyages;2;Avis client 451 sur Voyages;Negatif;68;En attente;Oui
+452;3697;26/12/2023;Mode;4;Avis client 452 sur Mode;Positif;65;Resolu;Oui
+453;6599;02/12/2024;Maison;5;Avis client 453 sur Maison;Positif;28;Resolu;Oui
+454;1513;04/06/2024;Sport;4;Avis client 454 sur Sport;Positif;46;Non resolu;Non
+455;9496;04/04/2023;Maison;3;Avis client 455 sur Maison;Neutre;62;Non resolu;Non
+456;3068;29/11/2024;Sport;1;Avis client 456 sur Sport;Negatif;38;En attente;Non
+457;8484;25/04/2024;Electronique;5;Avis client 457 sur Electronique;Positif;28;Non resolu;Oui
+458;7018;05/07/2023;Maison;5;Avis client 458 sur Maison;Positif;38;Non resolu;Oui
+459;7835;30/06/2024;Electronique;1;Avis client 459 sur Electronique;Negatif;1;Non resolu;Oui
+460;2925;04/06/2024;Electronique;3;Avis client 460 sur Electronique;Neutre;31;Resolu;Oui
+461;5117;17/06/2023;Sport;3;Avis client 461 sur Sport;Neutre;24;En attente;Non
+462;4936;10/05/2023;Alimentation;1;Avis client 462 sur Alimentation;Negatif;29;Non resolu;Non
+463;6303;12/09/2024;Beaute;4;Avis client 463 sur Beaute;Positif;69;En attente;Oui
+464;2688;06/07/2023;Beaute;1;Avis client 464 sur Beaute;Negatif;4;Resolu;Non
+465;3171;03/09/2024;Voyages;2;Avis client 465 sur Voyages;Negatif;34;Resolu;Oui
+466;9941;25/04/2023;Beaute;4;Avis client 466 sur Beaute;Positif;70;En attente;Non
+467;1094;12/05/2023;Maison;4;Avis client 467 sur Maison;Positif;19;Non resolu;Non
+468;4560;05/02/2023;Voyages;3;Avis client 468 sur Voyages;Neutre;61;En attente;Non
+469;9953;09/05/2024;Mode;5;Avis client 469 sur Mode;Positif;66;Resolu;Non
+470;3282;28/12/2023;Mode;1;Avis client 470 sur Mode;Negatif;55;Non resolu;Non
+471;7351;14/08/2024;Alimentation;5;Avis client 471 sur Alimentation;Positif;47;Resolu;Oui
+472;9584;17/02/2024;Mode;5;Avis client 472 sur Mode;Positif;46;Resolu;Non
+473;9395;22/08/2023;Mode;2;Avis client 473 sur Mode;Negatif;21;Non resolu;Non
+474;4475;23/01/2024;Sport;5;Avis client 474 sur Sport;Positif;52;Non resolu;Oui
+475;3875;27/12/2023;Voyages;5;Avis client 475 sur Voyages;Positif;66;Resolu;Non
+476;7124;19/01/2023;Voyages;5;Avis client 476 sur Voyages;Positif;39;Non resolu;Oui
+477;8860;27/10/2023;Sport;4;Avis client 477 sur Sport;Positif;3;En attente;Oui
+478;6573;06/09/2023;Sport;1;Avis client 478 sur Sport;Negatif;12;Non resolu;Oui
+479;6732;12/03/2024;Mode;2;Avis client 479 sur Mode;Negatif;56;Non resolu;Non
+480;9633;22/06/2023;Mode;4;Avis client 480 sur Mode;Positif;67;Non resolu;Oui
+481;3310;22/09/2024;Beaute;2;Avis client 481 sur Beaute;Negatif;55;Resolu;Non
+482;5052;16/02/2024;Sport;5;Avis client 482 sur Sport;Positif;64;Resolu;Oui
+483;6516;14/12/2024;Voyages;5;Avis client 483 sur Voyages;Positif;62;Non resolu;Oui
+484;1606;30/03/2024;Alimentation;2;Avis client 484 sur Alimentation;Negatif;67;Resolu;Oui
+485;8430;09/11/2024;Voyages;4;Avis client 485 sur Voyages;Positif;22;En attente;Non
+486;6090;17/05/2023;Sport;1;Avis client 486 sur Sport;Negatif;59;Resolu;Non
+487;2513;11/04/2024;Maison;2;Avis client 487 sur Maison;Negatif;40;En attente;Oui
+488;2448;27/09/2024;Electronique;2;Avis client 488 sur Electronique;Negatif;53;Non resolu;Oui
+489;7886;10/01/2023;Alimentation;2;Avis client 489 sur Alimentation;Negatif;36;Resolu;Non
+490;6630;02/04/2024;Beaute;2;Avis client 490 sur Beaute;Negatif;11;Resolu;Oui
+491;5329;06/12/2024;Maison;5;Avis client 491 sur Maison;Positif;59;Resolu;Oui
+492;7743;08/10/2023;Beaute;3;Avis client 492 sur Beaute;Neutre;11;Resolu;Non
+493;6163;30/11/2024;Alimentation;1;Avis client 493 sur Alimentation;Negatif;63;En attente;Non
+494;7333;04/05/2023;Alimentation;4;Avis client 494 sur Alimentation;Positif;43;Resolu;Non
+495;7537;26/08/2023;Beaute;2;Avis client 495 sur Beaute;Negatif;39;En attente;Non
+496;9889;13/07/2023;Voyages;2;Avis client 496 sur Voyages;Negatif;27;En attente;Non
+497;5423;11/02/2024;Sport;3;Avis client 497 sur Sport;Neutre;29;Non resolu;Non
+498;5211;17/09/2023;Voyages;2;Avis client 498 sur Voyages;Negatif;50;En attente;Non
+499;9200;16/05/2023;Sport;3;Avis client 499 sur Sport;Neutre;13;Non resolu;Non
+500;6390;21/04/2023;Alimentation;4;Avis client 500 sur Alimentation;Positif;53;Non resolu;Non
+501;6975;13/09/2023;Sport;4;Avis client 501 sur Sport;Positif;16;En attente;Oui
+502;3862;25/12/2023;Mode;4;Avis client 502 sur Mode;Positif;67;En attente;Oui
+503;7868;15/08/2024;Alimentation;5;Avis client 503 sur Alimentation;Positif;18;Resolu;Non
+504;1737;06/02/2024;Beaute;3;Avis client 504 sur Beaute;Neutre;4;Resolu;Non
+505;7110;02/10/2023;Maison;1;Avis client 505 sur Maison;Negatif;55;Resolu;Non
+506;9090;05/01/2024;Beaute;3;Avis client 506 sur Beaute;Neutre;56;Resolu;Oui
+507;3774;16/02/2023;Voyages;4;Avis client 507 sur Voyages;Positif;60;Resolu;Non
+508;2458;15/05/2023;Maison;3;Avis client 508 sur Maison;Neutre;41;En attente;Non
+509;5268;21/08/2023;Alimentation;3;Avis client 509 sur Alimentation;Neutre;6;Non resolu;Oui
+510;5512;10/07/2023;Alimentation;3;Avis client 510 sur Alimentation;Neutre;17;Resolu;Non
+511;2285;13/12/2024;Maison;5;Avis client 511 sur Maison;Positif;34;Non resolu;Oui
+512;7769;11/11/2024;Sport;1;Avis client 512 sur Sport;Negatif;63;Resolu;Oui
+513;4261;16/07/2024;Electronique;1;Avis client 513 sur Electronique;Negatif;64;Non resolu;Non
+514;1693;30/03/2023;Sport;4;Avis client 514 sur Sport;Positif;27;En attente;Oui
+515;6918;14/09/2024;Maison;4;Avis client 515 sur Maison;Positif;54;En attente;Non
+516;1164;03/08/2024;Alimentation;5;Avis client 516 sur Alimentation;Positif;33;En attente;Oui
+517;4954;17/10/2023;Electronique;5;Avis client 517 sur Electronique;Positif;19;Non resolu;Oui
+518;8314;24/03/2023;Mode;5;Avis client 518 sur Mode;Positif;23;Resolu;Oui
+519;1513;30/07/2024;Beaute;2;Avis client 519 sur Beaute;Negatif;5;Non resolu;Non
+520;6975;05/01/2023;Alimentation;2;Avis client 520 sur Alimentation;Negatif;61;En attente;Non
+521;5850;25/07/2024;Mode;1;Avis client 521 sur Mode;Negatif;19;Non resolu;Non
+522;9761;04/03/2023;Maison;3;Avis client 522 sur Maison;Neutre;69;Resolu;Non
+523;8972;30/06/2024;Electronique;3;Avis client 523 sur Electronique;Neutre;64;Resolu;Oui
+524;7268;11/10/2023;Voyages;5;Avis client 524 sur Voyages;Positif;54;Non resolu;Oui
+525;7936;24/01/2023;Mode;5;Avis client 525 sur Mode;Positif;17;En attente;Oui
+526;3714;03/05/2024;Beaute;3;Avis client 526 sur Beaute;Neutre;56;En attente;Non
+527;9135;11/03/2024;Mode;3;Avis client 527 sur Mode;Neutre;5;En attente;Oui
+528;1343;14/04/2023;Electronique;5;Avis client 528 sur Electronique;Positif;27;En attente;Oui
+529;6238;20/08/2023;Maison;3;Avis client 529 sur Maison;Neutre;20;Resolu;Oui
+530;3698;18/04/2024;Voyages;4;Avis client 530 sur Voyages;Positif;42;En attente;Oui
+531;1935;27/12/2024;Mode;2;Avis client 531 sur Mode;Negatif;39;Resolu;Non
+532;9808;19/10/2024;Maison;3;Avis client 532 sur Maison;Neutre;11;Non resolu;Non
+533;2614;16/01/2024;Mode;4;Avis client 533 sur Mode;Positif;27;En attente;Non
+534;1520;02/11/2024;Maison;1;Avis client 534 sur Maison;Negatif;41;Non resolu;Non
+535;9231;16/08/2023;Voyages;4;Avis client 535 sur Voyages;Positif;13;En attente;Oui
+536;5689;29/10/2024;Mode;3;Avis client 536 sur Mode;Neutre;10;Resolu;Oui
+537;8103;11/11/2024;Mode;3;Avis client 537 sur Mode;Neutre;49;Non resolu;Non
+538;7176;15/08/2024;Maison;2;Avis client 538 sur Maison;Negatif;41;Non resolu;Oui
+539;1111;31/10/2023;Alimentation;4;Avis client 539 sur Alimentation;Positif;5;Resolu;Oui
+540;3977;25/03/2024;Sport;2;Avis client 540 sur Sport;Negatif;6;Non resolu;Non
+541;9331;05/02/2023;Mode;3;Avis client 541 sur Mode;Neutre;3;Resolu;Non
+542;5777;07/07/2023;Sport;2;Avis client 542 sur Sport;Negatif;14;Non resolu;Oui
+543;9992;12/05/2023;Alimentation;5;Avis client 543 sur Alimentation;Positif;21;Non resolu;Non
+544;9007;05/03/2024;Voyages;5;Avis client 544 sur Voyages;Positif;59;En attente;Non
+545;1650;23/06/2024;Beaute;3;Avis client 545 sur Beaute;Neutre;66;Resolu;Oui
+546;4774;06/06/2024;Maison;1;Avis client 546 sur Maison;Negatif;59;En attente;Non
+547;5359;04/09/2023;Mode;1;Avis client 547 sur Mode;Negatif;7;En attente;Non
+548;9829;08/05/2024;Alimentation;4;Avis client 548 sur Alimentation;Positif;49;En attente;Non
+549;5456;05/10/2024;Mode;1;Avis client 549 sur Mode;Negatif;34;Non resolu;Non
+550;7594;27/08/2024;Mode;5;Avis client 550 sur Mode;Positif;67;Resolu;Non
+551;8124;15/05/2023;Electronique;5;Avis client 551 sur Electronique;Positif;40;Non resolu;Oui
+552;9119;11/09/2023;Mode;1;Avis client 552 sur Mode;Negatif;57;En attente;Oui
+553;5759;24/11/2023;Beaute;3;Avis client 553 sur Beaute;Neutre;15;Non resolu;Non
+554;6939;07/07/2024;Mode;5;Avis client 554 sur Mode;Positif;55;En attente;Oui
+555;4958;03/11/2023;Maison;4;Avis client 555 sur Maison;Positif;27;Resolu;Oui
+556;8348;11/10/2023;Beaute;2;Avis client 556 sur Beaute;Negatif;47;Resolu;Oui
+557;1748;21/06/2024;Voyages;3;Avis client 557 sur Voyages;Neutre;31;En attente;Oui
+558;8084;25/06/2024;Electronique;4;Avis client 558 sur Electronique;Positif;10;En attente;Oui
+559;4055;21/08/2023;Voyages;5;Avis client 559 sur Voyages;Positif;30;Resolu;Oui
+560;6739;23/04/2024;Electronique;2;Avis client 560 sur Electronique;Negatif;40;En attente;Non
+561;4522;21/04/2023;Mode;5;Avis client 561 sur Mode;Positif;53;En attente;Oui
+562;8221;12/06/2024;Maison;3;Avis client 562 sur Maison;Neutre;7;Non resolu;Non
+563;2292;07/11/2024;Voyages;3;Avis client 563 sur Voyages;Neutre;4;En attente;Non
+564;4972;16/12/2024;Voyages;5;Avis client 564 sur Voyages;Positif;41;En attente;Oui
+565;4117;30/08/2024;Sport;3;Avis client 565 sur Sport;Neutre;7;En attente;Non
+566;4062;17/05/2024;Sport;3;Avis client 566 sur Sport;Neutre;8;En attente;Non
+567;5847;21/10/2023;Electronique;4;Avis client 567 sur Electronique;Positif;45;Non resolu;Non
+568;9970;14/02/2023;Voyages;2;Avis client 568 sur Voyages;Negatif;64;En attente;Oui
+569;1985;03/03/2024;Voyages;4;Avis client 569 sur Voyages;Positif;8;Resolu;Oui
+570;1260;27/01/2024;Beaute;3;Avis client 570 sur Beaute;Neutre;66;Non resolu;Oui
+571;8368;15/03/2023;Alimentation;5;Avis client 571 sur Alimentation;Positif;19;Non resolu;Non
+572;5327;07/01/2023;Maison;2;Avis client 572 sur Maison;Negatif;21;En attente;Oui
+573;6966;26/12/2024;Voyages;4;Avis client 573 sur Voyages;Positif;9;En attente;Oui
+574;8421;09/01/2023;Beaute;2;Avis client 574 sur Beaute;Negatif;6;Non resolu;Oui
+575;7608;12/12/2023;Sport;1;Avis client 575 sur Sport;Negatif;4;Non resolu;Non
+576;3446;02/12/2023;Voyages;5;Avis client 576 sur Voyages;Positif;32;Resolu;Oui
+577;5611;05/03/2023;Mode;2;Avis client 577 sur Mode;Negatif;18;En attente;Oui
+578;7401;05/05/2023;Sport;1;Avis client 578 sur Sport;Negatif;71;Resolu;Non
+579;2313;31/07/2023;Sport;3;Avis client 579 sur Sport;Neutre;60;En attente;Oui
+580;9713;16/08/2024;Beaute;1;Avis client 580 sur Beaute;Negatif;7;Non resolu;Non
+581;2210;10/04/2023;Alimentation;2;Avis client 581 sur Alimentation;Negatif;48;Non resolu;Non
+582;5211;30/08/2024;Electronique;1;Avis client 582 sur Electronique;Negatif;20;En attente;Oui
+583;7774;28/11/2024;Sport;4;Avis client 583 sur Sport;Positif;35;Non resolu;Non
+584;5804;08/05/2024;Electronique;2;Avis client 584 sur Electronique;Negatif;19;En attente;Oui
+585;5701;06/11/2023;Maison;1;Avis client 585 sur Maison;Negatif;20;En attente;Oui
+586;5813;30/11/2023;Sport;5;Avis client 586 sur Sport;Positif;34;Resolu;Oui
+587;5551;04/08/2023;Maison;4;Avis client 587 sur Maison;Positif;62;Resolu;Oui
+588;2040;08/05/2023;Maison;5;Avis client 588 sur Maison;Positif;3;En attente;Oui
+589;2676;11/06/2024;Mode;2;Avis client 589 sur Mode;Negatif;3;Non resolu;Non
+590;3786;10/08/2023;Beaute;4;Avis client 590 sur Beaute;Positif;31;Non resolu;Non
+591;7439;30/11/2024;Sport;3;Avis client 591 sur Sport;Neutre;7;En attente;Oui
+592;3988;29/01/2024;Beaute;4;Avis client 592 sur Beaute;Positif;12;Resolu;Non
+593;8603;06/07/2024;Maison;4;Avis client 593 sur Maison;Positif;55;Resolu;Non
+594;7630;09/12/2023;Electronique;5;Avis client 594 sur Electronique;Positif;36;Resolu;Non
+595;3640;11/05/2024;Voyages;4;Avis client 595 sur Voyages;Positif;43;En attente;Oui
+596;6582;16/10/2023;Electronique;4;Avis client 596 sur Electronique;Positif;30;En attente;Non
+597;8285;02/02/2024;Maison;2;Avis client 597 sur Maison;Negatif;39;En attente;Non
+598;8945;11/04/2023;Alimentation;3;Avis client 598 sur Alimentation;Neutre;70;Non resolu;Non
+599;5372;07/09/2024;Electronique;3;Avis client 599 sur Electronique;Neutre;20;Resolu;Oui
+600;7874;20/07/2024;Alimentation;3;Avis client 600 sur Alimentation;Neutre;13;En attente;Oui
+601;1425;27/09/2023;Mode;4;Avis client 601 sur Mode;Positif;14;Resolu;Non
+602;3724;13/11/2024;Voyages;2;Avis client 602 sur Voyages;Negatif;29;En attente;Non
+603;1961;16/04/2023;Mode;1;Avis client 603 sur Mode;Negatif;22;En attente;Oui
+604;6322;01/12/2023;Alimentation;1;Avis client 604 sur Alimentation;Negatif;34;En attente;Oui
+605;2462;10/11/2024;Sport;4;Avis client 605 sur Sport;Positif;47;Resolu;Non
+606;4975;24/05/2024;Beaute;5;Avis client 606 sur Beaute;Positif;35;En attente;Non
+607;2138;24/02/2023;Sport;2;Avis client 607 sur Sport;Negatif;25;Non resolu;Oui
+608;6730;16/08/2023;Alimentation;1;Avis client 608 sur Alimentation;Negatif;23;En attente;Non
+609;2083;28/08/2024;Mode;3;Avis client 609 sur Mode;Neutre;31;Non resolu;Non
+610;7546;22/09/2023;Maison;3;Avis client 610 sur Maison;Neutre;42;Non resolu;Non
+611;5778;04/09/2024;Electronique;1;Avis client 611 sur Electronique;Negatif;20;En attente;Oui
+612;7086;19/10/2023;Maison;1;Avis client 612 sur Maison;Negatif;13;Non resolu;Non
+613;5138;12/10/2023;Mode;4;Avis client 613 sur Mode;Positif;34;Resolu;Non
+614;6359;24/08/2023;Sport;2;Avis client 614 sur Sport;Negatif;57;Non resolu;Non
+615;4290;25/06/2023;Beaute;5;Avis client 615 sur Beaute;Positif;42;Resolu;Oui
+616;2174;12/02/2023;Electronique;1;Avis client 616 sur Electronique;Negatif;20;Non resolu;Non
+617;5072;25/01/2024;Electronique;1;Avis client 617 sur Electronique;Negatif;23;Non resolu;Oui
+618;8256;31/01/2024;Mode;2;Avis client 618 sur Mode;Negatif;71;Non resolu;Non
+619;2489;10/04/2023;Voyages;1;Avis client 619 sur Voyages;Negatif;48;Resolu;Non
+620;3801;25/12/2024;Beaute;5;Avis client 620 sur Beaute;Positif;1;Resolu;Oui
+621;2564;24/01/2024;Beaute;2;Avis client 621 sur Beaute;Negatif;70;Resolu;Oui
+622;6425;27/10/2024;Electronique;3;Avis client 622 sur Electronique;Neutre;9;Resolu;Non
+623;1667;20/08/2023;Sport;3;Avis client 623 sur Sport;Neutre;6;Non resolu;Oui
+624;1459;27/01/2024;Sport;3;Avis client 624 sur Sport;Neutre;47;Non resolu;Non
+625;3100;10/01/2024;Voyages;3;Avis client 625 sur Voyages;Neutre;19;En attente;Non
+626;6713;09/07/2023;Mode;3;Avis client 626 sur Mode;Neutre;21;Resolu;Oui
+627;1546;21/11/2024;Mode;3;Avis client 627 sur Mode;Neutre;69;Resolu;Oui
+628;3957;27/05/2023;Alimentation;4;Avis client 628 sur Alimentation;Positif;61;Non resolu;Oui
+629;1163;29/08/2023;Sport;4;Avis client 629 sur Sport;Positif;26;Non resolu;Non
+630;2438;13/08/2024;Alimentation;4;Avis client 630 sur Alimentation;Positif;54;Resolu;Oui
+631;5485;29/12/2023;Beaute;2;Avis client 631 sur Beaute;Negatif;51;Non resolu;Non
+632;1331;29/09/2023;Mode;5;Avis client 632 sur Mode;Positif;43;Resolu;Oui
+633;3816;10/07/2024;Alimentation;4;Avis client 633 sur Alimentation;Positif;6;En attente;Oui
+634;2023;25/11/2024;Maison;1;Avis client 634 sur Maison;Negatif;41;Non resolu;Oui
+635;7012;06/02/2024;Mode;3;Avis client 635 sur Mode;Neutre;16;Resolu;Oui
+636;2847;31/08/2024;Voyages;1;Avis client 636 sur Voyages;Negatif;37;Non resolu;Non
+637;9095;08/04/2024;Maison;1;Avis client 637 sur Maison;Negatif;17;Resolu;Non
+638;7069;19/05/2024;Alimentation;1;Avis client 638 sur Alimentation;Negatif;49;Non resolu;Oui
+639;6113;07/04/2024;Voyages;3;Avis client 639 sur Voyages;Neutre;28;Resolu;Oui
+640;1905;03/11/2023;Maison;4;Avis client 640 sur Maison;Positif;56;En attente;Non
+641;5179;26/03/2024;Maison;3;Avis client 641 sur Maison;Neutre;22;En attente;Oui
+642;4877;02/04/2023;Electronique;1;Avis client 642 sur Electronique;Negatif;45;Non resolu;Non
+643;5427;15/04/2024;Sport;4;Avis client 643 sur Sport;Positif;17;En attente;Oui
+644;3964;29/10/2023;Electronique;3;Avis client 644 sur Electronique;Neutre;18;Non resolu;Non
+645;5263;26/01/2024;Alimentation;4;Avis client 645 sur Alimentation;Positif;46;Resolu;Oui
+646;6827;16/04/2024;Beaute;3;Avis client 646 sur Beaute;Neutre;36;Non resolu;Non
+647;5713;29/10/2024;Electronique;4;Avis client 647 sur Electronique;Positif;41;Resolu;Oui
+648;4354;27/07/2024;Maison;2;Avis client 648 sur Maison;Negatif;42;Resolu;Oui
+649;7611;26/03/2023;Maison;5;Avis client 649 sur Maison;Positif;38;En attente;Non
+650;5327;27/11/2024;Sport;5;Avis client 650 sur Sport;Positif;14;En attente;Oui
+651;8268;17/02/2024;Electronique;2;Avis client 651 sur Electronique;Negatif;60;En attente;Non
+652;5536;30/11/2024;Sport;3;Avis client 652 sur Sport;Neutre;46;Non resolu;Non
+653;4477;15/04/2023;Beaute;1;Avis client 653 sur Beaute;Negatif;58;Resolu;Non
+654;4098;13/08/2024;Sport;1;Avis client 654 sur Sport;Negatif;6;Resolu;Non
+655;4802;25/12/2023;Maison;3;Avis client 655 sur Maison;Neutre;72;Non resolu;Non
+656;6273;20/06/2024;Alimentation;4;Avis client 656 sur Alimentation;Positif;3;En attente;Non
+657;4287;20/04/2023;Voyages;1;Avis client 657 sur Voyages;Negatif;37;En attente;Non
+658;5692;21/03/2023;Beaute;2;Avis client 658 sur Beaute;Negatif;13;En attente;Oui
+659;6189;03/09/2024;Sport;5;Avis client 659 sur Sport;Positif;38;Resolu;Oui
+660;7315;11/09/2024;Maison;3;Avis client 660 sur Maison;Neutre;29;Resolu;Non
+661;9440;30/10/2023;Beaute;5;Avis client 661 sur Beaute;Positif;61;Non resolu;Non
+662;4701;02/11/2024;Sport;4;Avis client 662 sur Sport;Positif;39;Non resolu;Oui
+663;8435;23/06/2023;Electronique;2;Avis client 663 sur Electronique;Negatif;13;Non resolu;Non
+664;8715;10/07/2023;Beaute;1;Avis client 664 sur Beaute;Negatif;20;Non resolu;Non
+665;2698;12/03/2023;Sport;5;Avis client 665 sur Sport;Positif;41;En attente;Non
+666;4059;03/06/2023;Electronique;3;Avis client 666 sur Electronique;Neutre;38;Non resolu;Oui
+667;5898;19/08/2024;Alimentation;5;Avis client 667 sur Alimentation;Positif;50;En attente;Non
+668;8006;13/03/2024;Sport;1;Avis client 668 sur Sport;Negatif;61;Non resolu;Oui
+669;3344;24/02/2023;Voyages;2;Avis client 669 sur Voyages;Negatif;20;Resolu;Non
+670;3675;21/09/2023;Electronique;1;Avis client 670 sur Electronique;Negatif;28;Resolu;Oui
+671;1431;07/05/2023;Voyages;3;Avis client 671 sur Voyages;Neutre;41;Resolu;Oui
+672;5119;13/05/2024;Alimentation;3;Avis client 672 sur Alimentation;Neutre;71;Non resolu;Non
+673;2531;16/12/2024;Voyages;4;Avis client 673 sur Voyages;Positif;28;Non resolu;Non
+674;8995;01/03/2024;Maison;1;Avis client 674 sur Maison;Negatif;9;Non resolu;Oui
+675;9364;01/03/2024;Maison;3;Avis client 675 sur Maison;Neutre;13;Resolu;Non
+676;5145;30/10/2024;Beaute;1;Avis client 676 sur Beaute;Negatif;15;Non resolu;Non
+677;7776;08/10/2024;Electronique;1;Avis client 677 sur Electronique;Negatif;61;En attente;Non
+678;2025;03/02/2023;Sport;5;Avis client 678 sur Sport;Positif;8;Non resolu;Oui
+679;7803;08/02/2024;Voyages;1;Avis client 679 sur Voyages;Negatif;71;Resolu;Non
+680;4212;29/09/2023;Sport;2;Avis client 680 sur Sport;Negatif;36;Resolu;Non
+681;6402;18/03/2023;Sport;5;Avis client 681 sur Sport;Positif;61;Resolu;Non
+682;8697;25/08/2023;Electronique;2;Avis client 682 sur Electronique;Negatif;49;Resolu;Oui
+683;4407;07/10/2023;Alimentation;3;Avis client 683 sur Alimentation;Neutre;49;Non resolu;Oui
+684;5696;03/09/2024;Voyages;2;Avis client 684 sur Voyages;Negatif;16;En attente;Oui
+685;5944;20/01/2024;Maison;4;Avis client 685 sur Maison;Positif;69;En attente;Oui
+686;5358;18/11/2023;Alimentation;1;Avis client 686 sur Alimentation;Negatif;25;En attente;Oui
+687;8423;02/02/2023;Maison;5;Avis client 687 sur Maison;Positif;1;En attente;Oui
+688;1357;30/10/2024;Maison;1;Avis client 688 sur Maison;Negatif;3;En attente;Non
+689;4830;14/01/2024;Mode;4;Avis client 689 sur Mode;Positif;51;En attente;Non
+690;3141;09/08/2023;Beaute;4;Avis client 690 sur Beaute;Positif;64;Resolu;Non
+691;3977;09/12/2024;Beaute;4;Avis client 691 sur Beaute;Positif;1;Non resolu;Oui
+692;9140;04/03/2024;Beaute;3;Avis client 692 sur Beaute;Neutre;44;En attente;Oui
+693;9386;19/03/2023;Alimentation;1;Avis client 693 sur Alimentation;Negatif;40;En attente;Non
+694;4204;16/06/2023;Alimentation;3;Avis client 694 sur Alimentation;Neutre;3;Non resolu;Oui
+695;2374;08/01/2024;Voyages;5;Avis client 695 sur Voyages;Positif;13;En attente;Non
+696;1806;22/11/2024;Mode;3;Avis client 696 sur Mode;Neutre;62;En attente;Non
+697;1162;15/02/2023;Electronique;3;Avis client 697 sur Electronique;Neutre;19;Non resolu;Oui
+698;3037;28/10/2024;Voyages;3;Avis client 698 sur Voyages;Neutre;13;Resolu;Oui
+699;5021;25/09/2023;Mode;2;Avis client 699 sur Mode;Negatif;9;Non resolu;Oui
+700;9632;14/01/2023;Voyages;2;Avis client 700 sur Voyages;Negatif;4;Non resolu;Non
+701;8931;23/08/2024;Alimentation;2;Avis client 701 sur Alimentation;Negatif;66;En attente;Oui
+702;7403;16/06/2023;Sport;5;Avis client 702 sur Sport;Positif;21;En attente;Non
+703;1401;07/07/2024;Beaute;5;Avis client 703 sur Beaute;Positif;55;En attente;Oui
+704;2983;04/09/2023;Maison;3;Avis client 704 sur Maison;Neutre;8;Resolu;Oui
+705;9492;22/09/2024;Beaute;4;Avis client 705 sur Beaute;Positif;41;Resolu;Oui
+706;5808;08/01/2023;Alimentation;4;Avis client 706 sur Alimentation;Positif;66;Non resolu;Non
+707;4640;19/10/2024;Beaute;1;Avis client 707 sur Beaute;Negatif;63;En attente;Non
+708;6339;02/08/2024;Alimentation;1;Avis client 708 sur Alimentation;Negatif;50;En attente;Non
+709;7120;23/05/2024;Sport;3;Avis client 709 sur Sport;Neutre;2;Resolu;Oui
+710;4625;05/10/2023;Voyages;1;Avis client 710 sur Voyages;Negatif;34;Non resolu;Non
+711;8801;21/04/2023;Beaute;3;Avis client 711 sur Beaute;Neutre;68;En attente;Oui
+712;1256;13/12/2024;Sport;3;Avis client 712 sur Sport;Neutre;12;Non resolu;Non
+713;5762;28/10/2024;Electronique;4;Avis client 713 sur Electronique;Positif;8;Non resolu;Oui
+714;9017;05/09/2023;Sport;2;Avis client 714 sur Sport;Negatif;63;Non resolu;Oui
+715;4526;18/04/2024;Mode;2;Avis client 715 sur Mode;Negatif;71;En attente;Non
+716;8558;26/02/2024;Voyages;5;Avis client 716 sur Voyages;Positif;24;En attente;Non
+717;7917;06/05/2024;Mode;4;Avis client 717 sur Mode;Positif;37;Resolu;Non
+718;3379;02/04/2023;Alimentation;2;Avis client 718 sur Alimentation;Negatif;39;En attente;Oui
+719;4421;07/03/2023;Sport;4;Avis client 719 sur Sport;Positif;8;Non resolu;Oui
+720;1833;12/09/2024;Mode;3;Avis client 720 sur Mode;Neutre;17;Resolu;Oui
+721;1404;27/10/2024;Mode;4;Avis client 721 sur Mode;Positif;51;Non resolu;Non
+722;8276;02/07/2024;Alimentation;2;Avis client 722 sur Alimentation;Negatif;43;Resolu;Non
+723;9564;11/08/2023;Beaute;3;Avis client 723 sur Beaute;Neutre;32;En attente;Oui
+724;8103;26/11/2023;Mode;1;Avis client 724 sur Mode;Negatif;19;En attente;Non
+725;2273;02/06/2024;Sport;4;Avis client 725 sur Sport;Positif;31;En attente;Non
+726;5052;26/02/2023;Mode;5;Avis client 726 sur Mode;Positif;40;Resolu;Oui
+727;8202;02/04/2023;Sport;5;Avis client 727 sur Sport;Positif;30;Non resolu;Oui
+728;7894;30/07/2023;Electronique;3;Avis client 728 sur Electronique;Neutre;62;Resolu;Oui
+729;5635;28/05/2023;Electronique;1;Avis client 729 sur Electronique;Negatif;23;Non resolu;Oui
+730;7690;09/12/2024;Electronique;1;Avis client 730 sur Electronique;Negatif;28;En attente;Oui
+731;5033;16/01/2023;Voyages;3;Avis client 731 sur Voyages;Neutre;7;Non resolu;Oui
+732;9308;08/06/2024;Sport;5;Avis client 732 sur Sport;Positif;13;Non resolu;Non
+733;7995;07/04/2024;Sport;3;Avis client 733 sur Sport;Neutre;3;Resolu;Non
+734;7509;16/04/2024;Electronique;3;Avis client 734 sur Electronique;Neutre;18;En attente;Non
+735;8030;25/05/2023;Mode;3;Avis client 735 sur Mode;Neutre;2;Non resolu;Oui
+736;5998;18/01/2023;Voyages;4;Avis client 736 sur Voyages;Positif;1;Resolu;Non
+737;1501;10/06/2024;Maison;4;Avis client 737 sur Maison;Positif;32;En attente;Oui
+738;7071;15/09/2023;Electronique;4;Avis client 738 sur Electronique;Positif;15;Non resolu;Oui
+739;9494;24/11/2023;Sport;5;Avis client 739 sur Sport;Positif;38;Non resolu;Non
+740;7243;24/08/2024;Alimentation;5;Avis client 740 sur Alimentation;Positif;8;Non resolu;Non
+741;1797;29/04/2023;Mode;1;Avis client 741 sur Mode;Negatif;26;Non resolu;Non
+742;1835;05/01/2024;Voyages;5;Avis client 742 sur Voyages;Positif;16;Non resolu;Non
+743;4570;02/10/2023;Voyages;3;Avis client 743 sur Voyages;Neutre;63;Resolu;Oui
+744;4882;04/01/2023;Voyages;4;Avis client 744 sur Voyages;Positif;47;Non resolu;Oui
+745;3572;27/12/2023;Mode;2;Avis client 745 sur Mode;Negatif;10;En attente;Non
+746;3671;26/10/2024;Alimentation;4;Avis client 746 sur Alimentation;Positif;10;Resolu;Oui
+747;1964;29/02/2024;Mode;5;Avis client 747 sur Mode;Positif;55;Non resolu;Oui
+748;9630;02/06/2024;Voyages;5;Avis client 748 sur Voyages;Positif;71;En attente;Oui
+749;7059;15/02/2024;Mode;4;Avis client 749 sur Mode;Positif;55;Resolu;Oui
+750;2591;20/03/2024;Sport;5;Avis client 750 sur Sport;Positif;52;Resolu;Oui
+751;6941;22/06/2024;Sport;4;Avis client 751 sur Sport;Positif;22;En attente;Non
+752;7020;24/02/2024;Alimentation;2;Avis client 752 sur Alimentation;Negatif;45;Resolu;Non
+753;3257;02/02/2024;Beaute;4;Avis client 753 sur Beaute;Positif;43;Non resolu;Oui
+754;1917;12/05/2023;Electronique;4;Avis client 754 sur Electronique;Positif;6;Resolu;Non
+755;1654;04/06/2023;Maison;5;Avis client 755 sur Maison;Positif;51;En attente;Oui
+756;9825;20/09/2023;Sport;2;Avis client 756 sur Sport;Negatif;21;Non resolu;Non
+757;8252;21/10/2024;Mode;4;Avis client 757 sur Mode;Positif;31;En attente;Oui
+758;9098;25/05/2024;Maison;3;Avis client 758 sur Maison;Neutre;27;En attente;Oui
+759;1286;25/04/2023;Maison;4;Avis client 759 sur Maison;Positif;22;Resolu;Oui
+760;8528;22/07/2023;Electronique;3;Avis client 760 sur Electronique;Neutre;48;En attente;Oui
+761;1401;23/01/2024;Mode;1;Avis client 761 sur Mode;Negatif;60;Resolu;Oui
+762;1622;13/01/2023;Electronique;4;Avis client 762 sur Electronique;Positif;10;Non resolu;Non
+763;6086;03/10/2024;Mode;5;Avis client 763 sur Mode;Positif;32;En attente;Non
+764;2801;03/01/2023;Sport;2;Avis client 764 sur Sport;Negatif;25;En attente;Non
+765;1651;30/03/2024;Electronique;4;Avis client 765 sur Electronique;Positif;53;En attente;Non
+766;5731;09/10/2023;Alimentation;2;Avis client 766 sur Alimentation;Negatif;21;Non resolu;Oui
+767;9513;25/08/2024;Mode;2;Avis client 767 sur Mode;Negatif;56;Non resolu;Non
+768;4933;29/01/2024;Maison;4;Avis client 768 sur Maison;Positif;33;Non resolu;Oui
+769;3002;05/07/2023;Electronique;4;Avis client 769 sur Electronique;Positif;62;Non resolu;Non
+770;1876;19/03/2023;Voyages;4;Avis client 770 sur Voyages;Positif;68;En attente;Non
+771;2007;15/08/2024;Alimentation;4;Avis client 771 sur Alimentation;Positif;16;Non resolu;Non
+772;2895;04/04/2023;Electronique;3;Avis client 772 sur Electronique;Neutre;57;Resolu;Non
+773;9917;11/09/2023;Sport;1;Avis client 773 sur Sport;Negatif;34;Non resolu;Oui
+774;7166;17/03/2024;Alimentation;5;Avis client 774 sur Alimentation;Positif;39;Resolu;Non
+775;7897;24/02/2024;Voyages;5;Avis client 775 sur Voyages;Positif;11;Non resolu;Oui
+776;2349;03/01/2023;Maison;5;Avis client 776 sur Maison;Positif;52;En attente;Non
+777;8814;08/12/2024;Mode;3;Avis client 777 sur Mode;Neutre;38;Resolu;Oui
+778;7182;18/07/2024;Maison;5;Avis client 778 sur Maison;Positif;16;Non resolu;Oui
+779;5659;25/10/2024;Electronique;3;Avis client 779 sur Electronique;Neutre;33;En attente;Oui
+780;8156;13/03/2023;Mode;1;Avis client 780 sur Mode;Negatif;32;Resolu;Non
+781;7643;26/02/2023;Electronique;1;Avis client 781 sur Electronique;Negatif;45;Resolu;Oui
+782;6228;04/04/2023;Voyages;3;Avis client 782 sur Voyages;Neutre;26;Resolu;Non
+783;4610;21/11/2023;Beaute;2;Avis client 783 sur Beaute;Negatif;29;Non resolu;Non
+784;2412;02/04/2023;Mode;4;Avis client 784 sur Mode;Positif;18;Resolu;Oui
+785;2638;02/04/2023;Mode;2;Avis client 785 sur Mode;Negatif;23;Resolu;Oui
+786;7133;17/11/2024;Beaute;3;Avis client 786 sur Beaute;Neutre;60;Resolu;Oui
+787;6680;23/05/2024;Sport;4;Avis client 787 sur Sport;Positif;7;En attente;Non
+788;5821;24/02/2023;Electronique;2;Avis client 788 sur Electronique;Negatif;2;En attente;Oui
+789;9916;28/01/2023;Alimentation;2;Avis client 789 sur Alimentation;Negatif;66;Non resolu;Non
+790;8102;24/11/2023;Alimentation;4;Avis client 790 sur Alimentation;Positif;14;Resolu;Oui
+791;7144;19/04/2023;Maison;3;Avis client 791 sur Maison;Neutre;72;En attente;Non
+792;8312;15/02/2023;Maison;4;Avis client 792 sur Maison;Positif;65;En attente;Oui
+793;9014;10/06/2024;Voyages;1;Avis client 793 sur Voyages;Negatif;1;Non resolu;Non
+794;4836;27/01/2024;Voyages;2;Avis client 794 sur Voyages;Negatif;13;En attente;Non
+795;8572;07/11/2023;Sport;4;Avis client 795 sur Sport;Positif;29;Non resolu;Oui
+796;7710;21/10/2024;Maison;2;Avis client 796 sur Maison;Negatif;27;En attente;Non
+797;4899;22/01/2023;Electronique;5;Avis client 797 sur Electronique;Positif;18;Non resolu;Oui
+798;3053;24/02/2023;Sport;2;Avis client 798 sur Sport;Negatif;2;Resolu;Non
+799;6738;31/08/2024;Voyages;1;Avis client 799 sur Voyages;Negatif;52;En attente;Non
+800;4577;16/12/2023;Electronique;3;Avis client 800 sur Electronique;Neutre;8;Resolu;Non
+801;4985;05/05/2024;Electronique;5;Avis client 801 sur Electronique;Positif;18;Resolu;Oui
+802;9844;14/02/2024;Maison;1;Avis client 802 sur Maison;Negatif;71;Non resolu;Oui
+803;6914;10/07/2024;Voyages;3;Avis client 803 sur Voyages;Neutre;28;Resolu;Oui
+804;8092;15/11/2024;Voyages;4;Avis client 804 sur Voyages;Positif;14;Resolu;Oui
+805;6230;06/01/2023;Electronique;5;Avis client 805 sur Electronique;Positif;54;Resolu;Oui
+806;1508;13/03/2024;Mode;2;Avis client 806 sur Mode;Negatif;4;Non resolu;Non
+807;2683;13/09/2024;Alimentation;4;Avis client 807 sur Alimentation;Positif;21;Resolu;Non
+808;1843;09/12/2024;Maison;5;Avis client 808 sur Maison;Positif;2;En attente;Non
+809;5267;22/04/2023;Maison;1;Avis client 809 sur Maison;Negatif;65;Resolu;Non
+810;6739;20/12/2024;Beaute;4;Avis client 810 sur Beaute;Positif;40;Non resolu;Non
+811;6303;20/07/2024;Voyages;2;Avis client 811 sur Voyages;Negatif;9;En attente;Non
+812;8633;23/05/2024;Beaute;4;Avis client 812 sur Beaute;Positif;24;En attente;Oui
+813;9751;10/12/2023;Mode;5;Avis client 813 sur Mode;Positif;51;Resolu;Non
+814;7156;09/01/2024;Sport;3;Avis client 814 sur Sport;Neutre;57;Non resolu;Non
+815;9278;17/09/2023;Voyages;2;Avis client 815 sur Voyages;Negatif;11;En attente;Non
+816;3875;07/11/2024;Maison;1;Avis client 816 sur Maison;Negatif;19;Non resolu;Non
+817;4084;03/07/2024;Alimentation;2;Avis client 817 sur Alimentation;Negatif;43;Resolu;Oui
+818;9835;27/12/2023;Electronique;1;Avis client 818 sur Electronique;Negatif;42;En attente;Oui
+819;9943;04/01/2023;Sport;4;Avis client 819 sur Sport;Positif;52;Resolu;Oui
+820;5844;16/02/2023;Maison;4;Avis client 820 sur Maison;Positif;28;Non resolu;Non
+821;9966;29/12/2024;Beaute;4;Avis client 821 sur Beaute;Positif;48;Non resolu;Oui
+822;5681;01/07/2024;Beaute;3;Avis client 822 sur Beaute;Neutre;14;En attente;Non
+823;5714;14/01/2024;Beaute;3;Avis client 823 sur Beaute;Neutre;55;Resolu;Oui
+824;2134;11/06/2024;Mode;5;Avis client 824 sur Mode;Positif;50;Resolu;Oui
+825;3444;13/02/2023;Maison;3;Avis client 825 sur Maison;Neutre;50;Resolu;Oui
+826;7633;26/02/2023;Voyages;4;Avis client 826 sur Voyages;Positif;36;Non resolu;Oui
+827;9039;08/08/2023;Alimentation;4;Avis client 827 sur Alimentation;Positif;40;En attente;Non
+828;7081;28/12/2023;Maison;2;Avis client 828 sur Maison;Negatif;8;Non resolu;Oui
+829;8158;19/04/2024;Alimentation;4;Avis client 829 sur Alimentation;Positif;53;En attente;Non
+830;6160;04/03/2024;Maison;5;Avis client 830 sur Maison;Positif;66;Non resolu;Non
+831;6388;16/01/2023;Alimentation;5;Avis client 831 sur Alimentation;Positif;48;Resolu;Oui
+832;7384;25/11/2023;Voyages;4;Avis client 832 sur Voyages;Positif;44;En attente;Oui
+833;3355;15/01/2023;Beaute;2;Avis client 833 sur Beaute;Negatif;25;En attente;Oui
+834;6371;04/01/2024;Beaute;5;Avis client 834 sur Beaute;Positif;69;Non resolu;Non
+835;5743;06/07/2023;Sport;3;Avis client 835 sur Sport;Neutre;37;En attente;Oui
+836;9975;28/05/2024;Alimentation;1;Avis client 836 sur Alimentation;Negatif;1;En attente;Oui
+837;4874;05/03/2024;Electronique;4;Avis client 837 sur Electronique;Positif;34;En attente;Oui
+838;5143;02/03/2024;Electronique;5;Avis client 838 sur Electronique;Positif;17;Non resolu;Oui
+839;8470;09/04/2024;Alimentation;3;Avis client 839 sur Alimentation;Neutre;42;En attente;Oui
+840;1712;27/05/2023;Alimentation;3;Avis client 840 sur Alimentation;Neutre;17;Resolu;Oui
+841;7801;20/01/2024;Voyages;2;Avis client 841 sur Voyages;Negatif;50;En attente;Non
+842;9724;19/05/2024;Sport;4;Avis client 842 sur Sport;Positif;11;En attente;Oui
+843;4834;01/05/2024;Voyages;5;Avis client 843 sur Voyages;Positif;7;Non resolu;Oui
+844;2175;04/10/2023;Beaute;5;Avis client 844 sur Beaute;Positif;43;Resolu;Oui
+845;6380;23/11/2024;Voyages;4;Avis client 845 sur Voyages;Positif;6;Resolu;Non
+846;1928;14/11/2024;Mode;5;Avis client 846 sur Mode;Positif;8;Resolu;Non
+847;9863;03/08/2024;Beaute;2;Avis client 847 sur Beaute;Negatif;72;Resolu;Non
+848;2868;17/07/2023;Voyages;5;Avis client 848 sur Voyages;Positif;42;Non resolu;Oui
+849;2074;24/11/2024;Maison;5;Avis client 849 sur Maison;Positif;23;Resolu;Oui
+850;7736;03/02/2023;Sport;1;Avis client 850 sur Sport;Negatif;27;En attente;Non
+851;9844;10/05/2024;Maison;5;Avis client 851 sur Maison;Positif;53;En attente;Non
+852;6544;10/05/2023;Beaute;1;Avis client 852 sur Beaute;Negatif;48;En attente;Non
+853;4086;21/02/2023;Electronique;1;Avis client 853 sur Electronique;Negatif;25;En attente;Non
+854;7108;24/09/2024;Sport;4;Avis client 854 sur Sport;Positif;1;En attente;Non
+855;6029;30/03/2024;Electronique;1;Avis client 855 sur Electronique;Negatif;57;Non resolu;Non
+856;8162;14/05/2024;Electronique;4;Avis client 856 sur Electronique;Positif;49;Resolu;Oui
+857;1235;16/01/2024;Electronique;1;Avis client 857 sur Electronique;Negatif;37;Resolu;Non
+858;7202;31/12/2024;Electronique;5;Avis client 858 sur Electronique;Positif;15;Non resolu;Oui
+859;8273;25/03/2023;Sport;2;Avis client 859 sur Sport;Negatif;67;Resolu;Oui
+860;7451;03/12/2023;Electronique;4;Avis client 860 sur Electronique;Positif;57;En attente;Non
+861;4116;02/12/2024;Electronique;2;Avis client 861 sur Electronique;Negatif;50;En attente;Oui
+862;3781;30/09/2023;Maison;3;Avis client 862 sur Maison;Neutre;69;En attente;Oui
+863;9899;15/12/2023;Sport;3;Avis client 863 sur Sport;Neutre;22;Non resolu;Oui
+864;4816;17/11/2024;Mode;4;Avis client 864 sur Mode;Positif;47;En attente;Oui
+865;7801;30/04/2023;Maison;1;Avis client 865 sur Maison;Negatif;67;Non resolu;Non
+866;2012;22/07/2023;Alimentation;1;Avis client 866 sur Alimentation;Negatif;56;Non resolu;Non
+867;2005;19/06/2023;Electronique;1;Avis client 867 sur Electronique;Negatif;50;Resolu;Oui
+868;9212;16/04/2024;Electronique;3;Avis client 868 sur Electronique;Neutre;68;En attente;Oui
+869;9497;31/05/2024;Electronique;2;Avis client 869 sur Electronique;Negatif;24;Non resolu;Non
+870;8834;19/01/2024;Sport;1;Avis client 870 sur Sport;Negatif;6;Non resolu;Oui
+871;3762;15/05/2023;Sport;1;Avis client 871 sur Sport;Negatif;3;Resolu;Non
+872;4232;06/09/2024;Voyages;2;Avis client 872 sur Voyages;Negatif;68;En attente;Non
+873;9660;08/03/2024;Beaute;4;Avis client 873 sur Beaute;Positif;18;Non resolu;Non
+874;6433;22/03/2024;Alimentation;5;Avis client 874 sur Alimentation;Positif;41;Non resolu;Oui
+875;5320;14/10/2023;Sport;1;Avis client 875 sur Sport;Negatif;38;Resolu;Oui
+876;4735;09/08/2023;Alimentation;5;Avis client 876 sur Alimentation;Positif;55;En attente;Non
+877;3561;28/07/2024;Voyages;5;Avis client 877 sur Voyages;Positif;38;Resolu;Non
+878;5086;02/03/2024;Mode;3;Avis client 878 sur Mode;Neutre;11;Resolu;Non
+879;2683;22/02/2023;Alimentation;2;Avis client 879 sur Alimentation;Negatif;4;Non resolu;Oui
+880;6805;28/01/2023;Sport;2;Avis client 880 sur Sport;Negatif;41;Resolu;Oui
+881;1744;14/04/2024;Electronique;1;Avis client 881 sur Electronique;Negatif;55;Non resolu;Oui
+882;5241;20/03/2024;Maison;4;Avis client 882 sur Maison;Positif;48;En attente;Non
+883;9483;25/11/2023;Voyages;1;Avis client 883 sur Voyages;Negatif;69;Non resolu;Non
+884;7203;10/09/2023;Voyages;2;Avis client 884 sur Voyages;Negatif;33;En attente;Non
+885;7725;13/06/2023;Mode;3;Avis client 885 sur Mode;Neutre;71;Resolu;Oui
+886;8966;07/10/2024;Alimentation;5;Avis client 886 sur Alimentation;Positif;67;Non resolu;Non
+887;4243;04/12/2024;Voyages;4;Avis client 887 sur Voyages;Positif;29;Non resolu;Oui
+888;7671;14/08/2023;Maison;1;Avis client 888 sur Maison;Negatif;27;Resolu;Oui
+889;7697;16/08/2023;Beaute;1;Avis client 889 sur Beaute;Negatif;48;Resolu;Non
+890;6664;03/03/2024;Alimentation;3;Avis client 890 sur Alimentation;Neutre;72;Resolu;Oui
+891;8173;20/03/2023;Alimentation;2;Avis client 891 sur Alimentation;Negatif;29;Non resolu;Oui
+892;2296;22/07/2023;Beaute;5;Avis client 892 sur Beaute;Positif;23;En attente;Oui
+893;5118;05/07/2023;Sport;2;Avis client 893 sur Sport;Negatif;27;En attente;Oui
+894;2137;30/01/2024;Maison;4;Avis client 894 sur Maison;Positif;4;Resolu;Oui
+895;7251;26/09/2023;Alimentation;1;Avis client 895 sur Alimentation;Negatif;42;En attente;Oui
+896;3665;27/10/2024;Mode;2;Avis client 896 sur Mode;Negatif;36;En attente;Oui
+897;3712;30/01/2023;Maison;1;Avis client 897 sur Maison;Negatif;19;En attente;Oui
+898;8995;14/04/2024;Maison;4;Avis client 898 sur Maison;Positif;62;Non resolu;Non
+899;3085;21/06/2024;Alimentation;5;Avis client 899 sur Alimentation;Positif;34;En attente;Oui
+900;9080;12/01/2023;Maison;3;Avis client 900 sur Maison;Neutre;30;Resolu;Oui
+901;6594;14/08/2023;Mode;5;Avis client 901 sur Mode;Positif;52;En attente;Oui
+902;3756;22/10/2024;Voyages;3;Avis client 902 sur Voyages;Neutre;70;En attente;Oui
+903;9673;02/07/2024;Mode;1;Avis client 903 sur Mode;Negatif;31;Resolu;Non
+904;3793;05/05/2023;Maison;4;Avis client 904 sur Maison;Positif;69;En attente;Oui
+905;5288;02/05/2023;Sport;1;Avis client 905 sur Sport;Negatif;8;En attente;Oui
+906;5776;11/09/2023;Electronique;4;Avis client 906 sur Electronique;Positif;62;Resolu;Oui
+907;7619;28/09/2024;Mode;5;Avis client 907 sur Mode;Positif;20;En attente;Non
+908;1543;29/04/2023;Maison;4;Avis client 908 sur Maison;Positif;9;Non resolu;Oui
+909;1350;22/04/2024;Beaute;4;Avis client 909 sur Beaute;Positif;34;Non resolu;Non
+910;8331;14/06/2024;Electronique;1;Avis client 910 sur Electronique;Negatif;68;Resolu;Oui
+911;9952;17/09/2024;Alimentation;3;Avis client 911 sur Alimentation;Neutre;41;Resolu;Non
+912;6483;12/03/2023;Alimentation;4;Avis client 912 sur Alimentation;Positif;9;En attente;Non
+913;9681;04/06/2024;Electronique;1;Avis client 913 sur Electronique;Negatif;50;En attente;Oui
+914;3730;14/03/2024;Alimentation;1;Avis client 914 sur Alimentation;Negatif;12;Resolu;Oui
+915;1949;25/09/2024;Alimentation;4;Avis client 915 sur Alimentation;Positif;3;Non resolu;Oui
+916;9950;19/05/2024;Alimentation;5;Avis client 916 sur Alimentation;Positif;58;Non resolu;Non
+917;8277;16/11/2024;Electronique;1;Avis client 917 sur Electronique;Negatif;27;Resolu;Non
+918;7018;26/03/2024;Alimentation;4;Avis client 918 sur Alimentation;Positif;4;Resolu;Non
+919;6687;26/12/2024;Voyages;2;Avis client 919 sur Voyages;Negatif;28;Resolu;Oui
+920;8016;03/12/2023;Mode;1;Avis client 920 sur Mode;Negatif;57;En attente;Non
+921;7931;17/04/2024;Beaute;2;Avis client 921 sur Beaute;Negatif;12;Resolu;Oui
+922;6380;11/06/2024;Maison;3;Avis client 922 sur Maison;Neutre;36;En attente;Non
+923;2310;23/10/2024;Electronique;4;Avis client 923 sur Electronique;Positif;1;En attente;Oui
+924;9674;17/05/2024;Sport;1;Avis client 924 sur Sport;Negatif;52;En attente;Non
+925;9714;25/10/2023;Sport;2;Avis client 925 sur Sport;Negatif;5;En attente;Non
+926;9409;18/03/2023;Electronique;4;Avis client 926 sur Electronique;Positif;39;En attente;Oui
+927;8884;21/12/2024;Sport;5;Avis client 927 sur Sport;Positif;48;Resolu;Oui
+928;8826;17/04/2023;Mode;5;Avis client 928 sur Mode;Positif;23;En attente;Non
+929;4772;22/12/2023;Maison;3;Avis client 929 sur Maison;Neutre;34;Non resolu;Oui
+930;1887;26/09/2024;Voyages;3;Avis client 930 sur Voyages;Neutre;66;Resolu;Non
+931;4798;01/02/2024;Sport;1;Avis client 931 sur Sport;Negatif;43;Non resolu;Non
+932;7102;21/01/2024;Electronique;5;Avis client 932 sur Electronique;Positif;13;Resolu;Non
+933;5336;11/03/2023;Mode;2;Avis client 933 sur Mode;Negatif;52;En attente;Non
+934;1872;11/04/2024;Maison;1;Avis client 934 sur Maison;Negatif;24;Non resolu;Non
+935;7188;07/05/2023;Mode;2;Avis client 935 sur Mode;Negatif;6;Resolu;Non
+936;9968;24/10/2024;Maison;3;Avis client 936 sur Maison;Neutre;50;En attente;Oui
+937;9505;05/05/2024;Sport;5;Avis client 937 sur Sport;Positif;64;Resolu;Oui
+938;4964;23/07/2023;Maison;3;Avis client 938 sur Maison;Neutre;53;Resolu;Oui
+939;3155;08/03/2023;Sport;5;Avis client 939 sur Sport;Positif;6;Non resolu;Non
+940;6216;02/11/2023;Beaute;2;Avis client 940 sur Beaute;Negatif;8;Resolu;Non
+941;7399;07/07/2023;Beaute;1;Avis client 941 sur Beaute;Negatif;34;Non resolu;Non
+942;6215;17/10/2024;Beaute;2;Avis client 942 sur Beaute;Negatif;39;Resolu;Non
+943;9713;21/04/2024;Alimentation;1;Avis client 943 sur Alimentation;Negatif;39;En attente;Oui
+944;3667;16/05/2023;Alimentation;1;Avis client 944 sur Alimentation;Negatif;59;Non resolu;Non
+945;6841;17/12/2024;Sport;2;Avis client 945 sur Sport;Negatif;16;Non resolu;Oui
+946;8498;13/07/2023;Electronique;4;Avis client 946 sur Electronique;Positif;64;Non resolu;Non
+947;8582;12/08/2023;Voyages;5;Avis client 947 sur Voyages;Positif;52;Resolu;Oui
+948;5287;02/03/2023;Maison;3;Avis client 948 sur Maison;Neutre;46;Non resolu;Non
+949;6103;10/11/2023;Sport;5;Avis client 949 sur Sport;Positif;16;Resolu;Oui
+950;3953;17/07/2023;Maison;1;Avis client 950 sur Maison;Negatif;65;En attente;Oui
+951;2771;04/01/2023;Sport;5;Avis client 951 sur Sport;Positif;28;Resolu;Non
+952;2851;03/03/2023;Electronique;3;Avis client 952 sur Electronique;Neutre;68;Resolu;Oui
+953;1566;26/10/2024;Alimentation;2;Avis client 953 sur Alimentation;Negatif;19;Resolu;Oui
+954;4064;13/11/2023;Sport;3;Avis client 954 sur Sport;Neutre;50;Non resolu;Oui
+955;8536;19/11/2024;Voyages;1;Avis client 955 sur Voyages;Negatif;56;Non resolu;Oui
+956;3695;13/01/2024;Maison;1;Avis client 956 sur Maison;Negatif;64;Resolu;Oui
+957;7340;04/01/2023;Beaute;5;Avis client 957 sur Beaute;Positif;45;Non resolu;Oui
+958;7823;19/06/2024;Maison;4;Avis client 958 sur Maison;Positif;11;Resolu;Oui
+959;8889;18/07/2024;Voyages;3;Avis client 959 sur Voyages;Neutre;13;Non resolu;Oui
+960;2197;16/01/2024;Mode;1;Avis client 960 sur Mode;Negatif;3;En attente;Non
+961;5992;11/08/2023;Sport;1;Avis client 961 sur Sport;Negatif;30;Non resolu;Oui
+962;7721;28/07/2024;Mode;1;Avis client 962 sur Mode;Negatif;16;En attente;Non
+963;1328;10/11/2024;Alimentation;3;Avis client 963 sur Alimentation;Neutre;53;Resolu;Non
+964;5711;19/12/2024;Alimentation;1;Avis client 964 sur Alimentation;Negatif;60;Non resolu;Non
+965;7437;12/01/2023;Mode;5;Avis client 965 sur Mode;Positif;59;En attente;Oui
+966;6291;09/10/2023;Alimentation;5;Avis client 966 sur Alimentation;Positif;49;Non resolu;Non
+967;7935;11/09/2024;Voyages;3;Avis client 967 sur Voyages;Neutre;8;En attente;Oui
+968;3424;05/06/2023;Beaute;1;Avis client 968 sur Beaute;Negatif;27;Non resolu;Oui
+969;7141;30/05/2024;Sport;2;Avis client 969 sur Sport;Negatif;24;En attente;Oui
+970;1296;21/12/2024;Maison;2;Avis client 970 sur Maison;Negatif;19;Resolu;Oui
+971;8746;26/04/2023;Mode;5;Avis client 971 sur Mode;Positif;66;Resolu;Non
+972;9687;05/11/2023;Sport;1;Avis client 972 sur Sport;Negatif;49;Non resolu;Non
+973;8211;27/06/2023;Mode;3;Avis client 973 sur Mode;Neutre;53;En attente;Oui
+974;3178;16/07/2023;Maison;1;Avis client 974 sur Maison;Negatif;41;Non resolu;Oui
+975;7725;24/08/2024;Maison;5;Avis client 975 sur Maison;Positif;19;En attente;Oui
+976;8320;06/03/2024;Beaute;1;Avis client 976 sur Beaute;Negatif;27;Non resolu;Oui
+977;3238;05/10/2024;Beaute;5;Avis client 977 sur Beaute;Positif;20;En attente;Oui
+978;6367;23/04/2023;Voyages;4;Avis client 978 sur Voyages;Positif;45;Resolu;Oui
+979;8058;27/10/2024;Electronique;5;Avis client 979 sur Electronique;Positif;19;Resolu;Oui
+980;4144;13/12/2023;Voyages;2;Avis client 980 sur Voyages;Negatif;61;En attente;Oui
+981;3941;06/04/2023;Electronique;1;Avis client 981 sur Electronique;Negatif;23;Resolu;Non
+982;8102;16/10/2024;Alimentation;3;Avis client 982 sur Alimentation;Neutre;45;Resolu;Oui
+983;5284;09/10/2023;Alimentation;2;Avis client 983 sur Alimentation;Negatif;42;Non resolu;Oui
+984;7764;06/07/2023;Beaute;2;Avis client 984 sur Beaute;Negatif;4;En attente;Non
+985;3895;03/09/2023;Beaute;5;Avis client 985 sur Beaute;Positif;28;Resolu;Non
+986;2137;25/06/2024;Alimentation;1;Avis client 986 sur Alimentation;Negatif;67;Non resolu;Non
+987;8176;20/02/2024;Maison;5;Avis client 987 sur Maison;Positif;42;Non resolu;Oui
+988;6748;01/12/2024;Sport;2;Avis client 988 sur Sport;Negatif;48;Resolu;Non
+989;2569;17/03/2023;Sport;1;Avis client 989 sur Sport;Negatif;56;Non resolu;Non
+990;5055;11/11/2023;Voyages;4;Avis client 990 sur Voyages;Positif;56;En attente;Oui
+991;3097;22/12/2024;Sport;2;Avis client 991 sur Sport;Negatif;13;Non resolu;Oui
+992;8636;12/12/2023;Alimentation;2;Avis client 992 sur Alimentation;Negatif;58;Non resolu;Oui
+993;6761;04/06/2023;Mode;3;Avis client 993 sur Mode;Neutre;45;Resolu;Oui
+994;8856;16/10/2023;Voyages;3;Avis client 994 sur Voyages;Neutre;40;Resolu;Non
+995;1884;06/01/2024;Maison;5;Avis client 995 sur Maison;Positif;63;En attente;Non
+996;2558;02/07/2023;Alimentation;1;Avis client 996 sur Alimentation;Negatif;69;Resolu;Oui
+997;5587;05/06/2024;Voyages;4;Avis client 997 sur Voyages;Positif;48;Non resolu;Oui
+998;2210;30/12/2024;Electronique;2;Avis client 998 sur Electronique;Negatif;38;Resolu;Non
+999;1697;05/05/2024;Beaute;1;Avis client 999 sur Beaute;Negatif;67;En attente;Oui
+1000;7407;06/01/2023;Electronique;2;Avis client 1000 sur Electronique;Negatif;15;Non resolu;Non
